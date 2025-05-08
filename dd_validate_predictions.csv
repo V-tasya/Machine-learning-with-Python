@@ -1,0 +1,183 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+USA,University of Washington,38900.0,51000
+Sweden,Lund University,0.0,0
+Netherlands,TU Eindhoven,15600.0,14800
+Portugal,University of Minho,6500.0,6200
+New Zealand,University of Waikato,31200.0,28500
+USA,Georgia Tech,48000.0,48000
+Sweden,Linköping University,0.0,0
+Netherlands,Utrecht University,11200.0,13900
+Portugal,University of Aveiro,6000.0,6800
+New Zealand,Massey University,31200.0,27500
+USA,Carnegie Mellon,56000.0,56000
+Sweden,Umeå University,0.0,0
+Netherlands,University of Groningen,15600.0,14200
+Portugal,University of Algarve,6500.0,5900
+New Zealand,AUT University,28500.0,29500
+USA,NC State University,27500.0,47000
+Sweden,Karlstad University,0.0,0
+Netherlands,Tilburg University,15600.0,14000
+Portugal,UTAD,6500.0,5700
+New Zealand,Lincoln University,31000.0,28000
+USA,UC Davis,39800.0,48000
+Sweden,Linnaeus University,0.0,0
+Netherlands,Wageningen University,15600.0,14500
+Portugal,University of Madeira,6000.0,5500
+Spain,Universidad Politécnica de Madrid,3800.0,3500
+Italy,Politecnico di Milano,0.0,4000
+Greece,National Technical University,4500.0,0
+Austria,TU Wien,1500.0,1500
+Mexico,UNAM,3900.0,800
+Spain,Universitat Politècnica Catalunya,4500.0,3800
+Italy,Sapienza University,0.0,3500
+Greece,Aristotle University,4500.0,0
+Austria,TU Graz,1500.0,1500
+Mexico,Tecnológico de Monterrey,4500.0,12000
+Spain,Universitat de València,4500.0,3200
+Italy,Politecnico di Torino,0.0,3800
+Greece,University of Patras,4500.0,0
+Austria,Johannes Kepler University,1500.0,1500
+Mexico,Universidad de Guadalajara,3900.0,900
+Spain,Universidad de Sevilla,4500.0,3000
+Italy,University of Bologna,0.0,3600
+Greece,University of Crete,3800.0,0
+Austria,University of Salzburg,1500.0,1500
+Mexico,UDLAP,4500.0,10000
+Spain,University of the Basque Country,3800.0,3400
+Italy,University of Florence,0.0,3500
+Greece,University of Thessaly,4500.0,0
+Austria,University of Innsbruck,1500.0,1500
+Mexico,Tecnologico de Monterrey,3900.0,11000
+Spain,University of Granada,4500.0,2800
+Italy,University of Naples,0.0,3200
+Greece,University of Ioannina,3900.0,0
+Austria,University of Klagenfurt,1500.0,1500
+Mexico,Universidad Autonoma de Yucatan,4500.0,3500
+Spain,University of Zaragoza,4500.0,2900
+Italy,University of Pisa,0.0,3300
+Greece,University of the Aegean,4500.0,0
+Austria,Montanuniversität Leoben,1500.0,1500
+Mexico,CETYS Universidad,3900.0,9500
+Spain,University of Salamanca,4500.0,3100
+Italy,University of Padua,0.0,3400
+Greece,Technical University of Crete,4500.0,0
+Austria,FH Vorarlberg,1500.0,1500
+Mexico,UASLP,4500.0,2800
+Turkey,Bogazici University,1800.0,1500
+Greece,Athens University of Economics,4500.0,0
+Belgium,KU Leuven,3500.0,3800
+Hungary,Budapest University of Technology,2500.0,6500
+Russia,Moscow State University,0.0,5500
+Turkey,Middle East Technical University,1800.0,1200
+Greece,University of Macedonia,4500.0,0
+Belgium,Ghent University,3500.0,3500
+Hungary,University of Debrecen,4200.0,5800
+Russia,ITMO University,0.0,5000
+Turkey,Ege University,1800.0,1300
+Greece,University of Patras,4500.0,0
+Belgium,Vrije Universiteit Brussel,3500.0,3600
+Hungary,University of Szeged,4200.0,6000
+Russia,Novosibirsk State University,0.0,4800
+Turkey,Anadolu University,1800.0,1000
+Greece,University of Crete,4500.0,0
+Belgium,University of Antwerp,3500.0,3700
+Hungary,University of Pecs,4200.0,5500
+Russia,Kazan Federal University,0.0,4500
+Turkey,Uludag University,1800.0,1100
+Greece,University of Thessaly,4500.0,0
+Belgium,UCLouvain,3500.0,3500
+Hungary,Szechenyi Istvan University,4200.0,5200
+Russia,Tomsk State University,0.0,4600
+Turkey,Akdeniz University,1800.0,1400
+Greece,University of Piraeus,4500.0,0
+Belgium,Hasselt University,3500.0,3400
+Hungary,University of Miskolc,4200.0,5300
+Russia,Ural Federal University,0.0,4700
+Turkey,Erciyes University,1800.0,1200
+Greece,Democritus University,3900.0,0
+Belgium,University of Liege,3500.0,3600
+Hungary,University of Pannonia,4200.0,5100
+Russia,Samara State University,0.0,4400
+Turkey,Selcuk University,1800.0,1000
+Greece,University of the Aegean,4500.0,0
+Belgium,University of Mons,3500.0,3500
+Hungary,John von Neumann University,4200.0,5400
+Russia,Southern Federal University,0.0,4200
+Brazil,University of Sao Paulo,3800.0,0
+India,Indian Institute of Science,2500.0,2000
+Thailand,Chulalongkorn University,1800.0,15000
+Egypt,Cairo University,1800.0,2500
+Singapore,National University of Singapore,34900.0,42000
+UAE,University of Dubai,32000.0,25000
+Brazil,PUC-Rio,4500.0,8000
+India,IIT Bombay,2500.0,1800
+Thailand,Chiang Mai University,1800.0,12000
+Singapore,Nanyang Technological University,38500.0,40000
+UAE,Khalifa University,32000.0,27000
+Brazil,UNICAMP,4500.0,0
+India,IIT Delhi,2500.0,1900
+Thailand,Khon Kaen University,1800.0,11000
+Egypt,Alexandria University,1800.0,2200
+Singapore,Singapore Management University,31200.0,38000
+UAE,American University of Sharjah,31000.0,26000
+Brazil,UFRGS,3900.0,0
+India,IIT Madras,2500.0,1700
+Thailand,Prince of Songkla University,1800.0,10000
+Egypt,Ain Shams University,1800.0,2400
+Singapore,Singapore University of Technology,34900.0,39000
+UAE,Ajman University,28900.0,23000
+Brazil,UFPE,4500.0,0
+India,IIT Hyderabad,2500.0,1800
+Thailand,Prince of Songkla University,1800.0,9500
+Egypt,Port Said University,1800.0,2100
+Singapore,SUTD,38500.0,37000
+UAE,UAE University,30800.0,24000
+Brazil,UFSC,4500.0,0
+India,IIT Pune,2500.0,1600
+Thailand,Suranaree University,1800.0,9000
+Egypt,Mansoura University,1800.0,2000
+Singapore,SIM Global Education,31200.0,35000
+UAE,RAK University,30800.0,22000
+Brazil,UFBA,4500.0,0
+India,IIT Kanpur,2500.0,1900
+Thailand,Thaksin University,1800.0,8500
+Egypt,Aswan University,1800.0,1900
+UAE,Fujairah University,20500.0,21000
+Iceland,University of Iceland,12000.0,0
+Colombia,Universidad Nacional,1800.0,3500
+Poland,University of Warsaw,4500.0,3000
+Romania,University Politehnica,4200.0,2500
+Luxembourg,University of Luxembourg,4100.0,400
+Indonesia,University of Indonesia,4200.0,5000
+Iceland,University of Akureyri,12000.0,0
+Colombia,Universidad de Antioquia,1800.0,4000
+Poland,Jagiellonian University,4500.0,2800
+Romania,Babes-Bolyai University,4200.0,2200
+Luxembourg,Luxembourg School of Business,4100.0,400
+Indonesia,Institut Teknologi Bandung,4200.0,4500
+Iceland,Reykjavik University,12000.0,0
+Colombia,Universidad del Valle,1800.0,3200
+Poland,Wroclaw University of Technology,4500.0,2600
+Romania,Politehnica University,2500.0,2400
+Luxembourg,Luxembourg Institute of Science,4100.0,400
+Indonesia,Gadjah Mada University,4200.0,4000
+Iceland,Iceland University of Arts,12000.0,0
+Colombia,Universidad del Norte,1800.0,3800
+Poland,Adam Mickiewicz University,3800.0,2700
+Romania,Alexandru Ioan Cuza University,4200.0,2100
+Luxembourg,Sacred Heart University,4100.0,400
+Indonesia,Institut Teknologi Sepuluh,2500.0,3800
+Iceland,Bifrost University,12000.0,0
+Colombia,UIS,1800.0,3500
+Poland,Gdansk University of Technology,4500.0,2500
+Romania,Transilvania University,4200.0,2000
+Luxembourg,Miami University Dolibois,4100.0,400
+Indonesia,Brawijaya University,4200.0,3500
+Poland,Lodz University of Technology,4500.0,2400
+Romania,Ovidius University,4200.0,1900
+Luxembourg,European Business University,4100.0,400
+Indonesia,Diponegoro University,4200.0,3200
+Iceland,Agricultural University,12000.0,0
+Colombia,Universidad de Cartagena,1800.0,3300
+Poland,University of Silesia,3900.0,2300
+Romania,University of Craiova,4200.0,2200

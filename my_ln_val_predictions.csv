@@ -1,0 +1,137 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+Spain,Universitat Politècnica Catalunya,-1.8432653847798638e+35,3800
+Australia,University of Sydney,-1.7356617271149585e+35,44900
+UK,University of Glasgow,-1.512459284144305e+35,34000
+Sweden,Uppsala University,-6.472116904525248e+35,0
+UK,King's College London,-2.5523384245235262e+35,39000
+Germany,University of Stuttgart,2.972285715367134e+35,450
+Australia,Australian National University,-1.9551383014691482e+35,34000
+Greece,University of Thessaly,-2.918598960708534e+34,0
+Canada,Laval University,-4.337164828541164e+34,33000
+Canada,UQTR,-3.1808665911168006e+34,28800
+India,IIT Pune,-3.5849158974454327e+34,1600
+Saudi Arabia,KFUPM,4.153837486827862e+34,4500
+Italy,University of Padua,7.504491553351118e+34,3400
+Australia,Monash University,2.175305727692159e+32,42800
+UK,University of Cambridge,-2.730012332651515e+35,45000
+France,INSA Rennes,8.006880878880615e+34,4500
+Thailand,Suranaree University,-2.4923024920967173e+35,9000
+UK,University of Leicester,1.0758804174257029e+35,27400
+Colombia,Universidad del Norte,-8.205236969362634e+34,3800
+USA,Ohio State University,3.37265543932985e+35,32800
+UK,University of Birmingham,-8.832989382390302e+33,30500
+Italy,University of Pisa,7.941577480309812e+34,3300
+UK,Imperial College,-1.839006078763097e+35,42000
+South Korea,Incheon National University,-1.075569843028647e+35,5000
+USA,University of Washington,1.6249819628204988e+35,50000
+Australia,University of Queensland,-5.03733229223428e+34,43500
+Denmark,University of Copenhagen,-7.205326011697256e+34,0
+Singapore,Singapore University of Technology,1.4254048515180492e+35,39000
+Austria,University of Salzburg,-2.4683692487644083e+34,1500
+Lebanon,Lebanese University,2.839537344511234e+34,2000
+USA,University of Pennsylvania,5.439746675845002e+35,53500
+Poland,Gdansk University of Technology,9.969209968386869e+35,2500
+India,IIT Delhi,1.5117493998081773e+35,1900
+Denmark,Roskilde University,3.8607566680550955e+34,0
+China,Xi'an Jiaotong University,-9.532732513716285e+32,6300
+Portugal,University of Porto,2.613649949361141e+35,6500
+Saudi Arabia,King Abdulaziz University,1.4413734173924291e+35,4800
+UK,De Montfort University,1.408004874685499e+35,19600
+Malaysia,UNIMAS,8.589600467146482e+34,7000
+Singapore,Nanyang Technological University,1.09270188981336e+35,40000
+Canada,Dalhousie University,1.0827749609657223e+35,36000
+UK,University of Nottingham,6.657700952398661e+34,29500
+Cyprus,Eastern Mediterranean University,-2.8233114168283125e+34,7800
+Croatia,University of Osijek,-4.9846049841934345e+35,3200
+Singapore,Singapore Management University,6.528711412245429e+34,38000
+USA,MIT,2.778539553128816e+35,55800
+Canada,University of Windsor,5.795694294354657e+34,20500
+Serbia,University of Nis,-2.076918743413931e+35,2500
+Netherlands,TU Eindhoven,-3.4104871748540284e+34,14800
+Ireland,University College Cork,1.939878684809796e+34,16800
+Japan,Hokkaido University,-1.2982078796862756e+35,8100
+South Korea,Sungkyunkwan University,2.0142017299676394e+35,6400
+Japan,Osaka University,-1.9976957103646218e+34,6800
+Japan,Tokyo Institute of Technology,1.4618196795314142e+35,8900
+Denmark,University of Southern Denmark,2.1539918999078074e+34,0
+Australia,University of Wollongong,-9.808952391945603e+34,36800
+UK,University of Surrey,1.3896492939941942e+35,25900
+UK,University of Westminster,2.53347578359213e+35,19300
+Malaysia,UTeM,1.1042757908708152e+35,7500
+UK,University of Oxford,-1.1145184077206593e+35,29800
+Japan,Hiroshima University,-1.1813871425471574e+35,7600
+UK,University of Leeds,-2.005828897753132e+35,35000
+Mexico,UASLP,-7.030040293372742e+33,2800
+Germany,Free University of Berlin,1.5057660889751e+35,0
+India,Indian Institute of Science,-1.9369701171487345e+34,2500
+Luxembourg,Sacred Heart University,-5.127393147803142e+34,400
+Russia,Kazan Federal University,1.083790557171127e+35,4500
+Germany,TU Darmstadt,3.43543453866652e+35,450
+Australia,Griffith University,-7.800144625355681e+33,38200
+Canada,University of Manitoba,-1.9828106786569384e+34,22300
+Luxembourg,Miami University Dolibois,-1.6424177094161288e+35,400
+Bahrain,Bahrain Polytechnic,4.153837486827862e+34,6500
+Colombia,Universidad de Antioquia,5.804975043170803e+33,4000
+USA,Northeastern University,5.066506978627383e+35,54000
+Ukraine,Odesa Polytechnic,-5.1922968585348276e+35,3600
+Italy,Politecnico di Torino,8.959754442413125e+34,3800
+Iran,Shiraz University,4.348548619022918e+34,2700
+Australia,Australian National University,1.225589350577365e+35,33000
+Cyprus,Cyprus University of Technology,7.553169336399882e+34,7500
+Japan,University of Tokyo,-1.3115183397155895e+34,8900
+Australia,Southern Cross University,-1.8649344647402007e+34,25200
+Thailand,Chulalongkorn University,8.307674973655724e+34,15000
+Canada,University of Calgary,2.324712030665386e+34,35000
+Australia,University of New South Wales,-1.0223517107896431e+35,40200
+UK,Loughborough University,1.3737276024553276e+35,24100
+South Korea,Sungkyunkwan University (Suwon),-7.08293434624522e+34,5900
+Indonesia,Gadjah Mada University,-4.5316243405634685e+34,4000
+Argentina,University of Buenos Aires,4.963105630013564e+34,0
+Australia,Monash University,-3.3052765597699703e+34,32800
+UK,University of Edinburgh,-6.642489145195922e+34,32500
+Thailand,Prince of Songkla University,-1.9943693363270688e+35,9500
+France,University of Strasbourg,-1.058257311725224e+35,4000
+Netherlands,TU Eindhoven,-1.8286620498652346e+35,15600
+Norway,University of Bergen,9.081758516640369e+34,0
+Germany,RWTH Aachen,-2.1135284927485223e+35,0
+Canada,Dalhousie University,-1.4802235906486644e+34,22600
+Germany,Heidelberg University,-3.08607003324362e+35,0
+Singapore,SIM Global Education,1.9723633869910314e+35,35000
+Australia,Charles Darwin University,1.3666444190012278e+35,29800
+Bulgaria,Burgas Free University,1.2461512460483586e+35,2900
+Tunisia,University of Sfax,9.786522816771555e+35,1400
+Iran,University of Tabriz,-5.062489437071457e+34,2600
+USA,UT Austin,1.6490486612277508e+34,48000
+UK,Brunel University London,2.299518188814008e+35,23800
+Italy,Politecnico di Milano,3.5930288612868934e+34,4000
+New Zealand,Massey University,3.4579902565252954e+34,27500
+France,INSA Toulouse,-2.4733643888579727e+34,4300
+Norway,University of Agder,-7.166471985404631e+34,0
+Australia,Queensland University of Technology,3.7592826795423055e+34,41200
+UK,Newcastle University,1.6976376838256448e+34,30800
+South Korea,Chungbuk National University,-3.8170163840942204e+35,4800
+Nigeria,University of Lagos,-3.32306998946229e+35,2500
+Greece,University of Patras,-5.228139812347872e+34,0
+South Korea,University of Ulsan,-3.13905782833316e+35,5100
+Canada,University of Ottawa,-3.975488491608514e+34,28900
+UK,Queen's University Belfast,-3.1224769584821747e+34,27500
+Luxembourg,University of Luxembourg,-3.172999596295484e+34,400
+Germany,University of Bonn,-3.6868350057037824e+35,0
+Ireland,Athlone IT,-8.307674973655724e+34,13800
+Canada,McMaster University,9.571162740487993e+34,36500
+Switzerland,University of St. Gallen,-7.231072191536802e+35,1440
+Germany,Heidelberg University,2.410970029586074e+35,500
+Iran,Sharif University of Technology,2.2034809793407175e+35,3000
+Canada,University of Saskatchewan,-1.745005917850871e+34,32400
+Spain,Universidad Politécnica de Madrid,-3.693021140632896e+35,3500
+Cyprus,Neapolis University,-1.0335915934020891e+35,7400
+Canada,University of Regina,1.7666605899256829e+34,21100
+Canada,Université de Sherbrooke,-1.0139082927200764e+35,20500
+Portugal,University of Lisbon,-2.728644852921696e+35,3500
+Canada,University of Calgary,-3.5941682178173605e+34,37200
+Austria,FH Vorarlberg,-1.4933938191168725e+35,1500
+Luxembourg,Luxembourg School of Business,-8.112963841460668e+34,400
+Canada,Queen's University,-2.6351580007627905e+34,23200
+UK,University of Exeter,9.348162586323055e+34,25600
+Canada,University of Manitoba,5.511132602222224e+34,33000
+Australia,University of Southern Queensland,-3.50932533672884e+34,26200

@@ -1,0 +1,183 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+Luxembourg,Chamber of Commerce School,332501.27,400
+Indonesia,Udayana University,-4694789.74,3000
+Tunisia,University of Tunis,328371.99,1500
+Cyprus,University of Cyprus,327982.01,8000
+Croatia,University of Zagreb,317325.73,4000
+Dominican Republic,INTEC,304647.31,6000
+Morocco,Mohammed V University,324135.02,2000
+Peru,PUCP,328353.4,8500
+Argentina,University of Buenos Aires,245426.85,0
+Tunisia,University of Sfax,329171.63,1400
+Cyprus,Cyprus University of Technology,332191.67,7500
+Croatia,University of Split,318521.26,3800
+Dominican Republic,PUCMM,307242.87,5500
+Morocco,Hassan II University,317926.33,2200
+Peru,Universidad San Agustin,331032.55,7000
+Argentina,National University of Cordoba,219770.98,0
+Tunisia,University of Sousse,332579.57,1300
+Cyprus,American University Cyprus,320553.85,8200
+Croatia,University of Rijeka,322500.86,3500
+Dominican Republic,Universidad Central Este,306712.24,5000
+Morocco,University of Al Quaraouiyine,325784.46,1800
+Peru,Universidad Nacional de Trujillo,326148.42,7500
+Argentina,National University of Rosario,214441.74,0
+Tunisia,University of Monastir,328489.71,1600
+Cyprus,Eastern Mediterranean University,324396.19,7800
+Croatia,University of Osijek,322452.34,3200
+Dominican Republic,UCNE,302645.85,4800
+Morocco,Cadi Ayyad University,320263.44,2100
+Peru,Universidad San Antonio Abad,328718.19,6800
+Argentina,National University of La Plata,223967.09,0
+Tunisia,University of Gabes,327508.94,1400
+Croatia,University of Zadar,323547.92,3600
+Cyprus,Neapolis University,328430.29,7400
+Dominican Republic,UTESA,298269.62,4500
+Morocco,Abdelmalek Essaadi University,324083.89,1900
+Peru,Universidad de Piura,327347.06,7200
+Argentina,National University of Cuyo,213634.25,0
+Tunisia,University of Carthage,329374.99,1200
+Cyprus,Girne American University,323250.03,7600
+Croatia,University of Dubrovnik,325997.82,3400
+Morocco,Mohammed I University,328878.97,1700
+Peru,Universidad San Martin,319418.24,6500
+Ecuador,Universidad San Francisco,327806.39,8500
+Lebanon,American University of Beirut,-6774528.72,20000
+Bahrain,University of Bahrain,328731.21,7000
+Uruguay,Universidad de la Republica,302367.4,0
+Bulgaria,Sofia University,326955.07,3500
+Ghana,University of Ghana,324800.45,4500
+Algeria,University of Science and Technology,263921.95,1200
+Panama,Universidad Tecnologica,327873.16,7500
+Ecuador,ESPOL,327313.07,7800
+Lebanon,Lebanese American University,-6781857.47,18000
+Bahrain,Royal University for Women,329981.52,8000
+Uruguay,Universidad ORT Uruguay,308706.78,6500
+Bulgaria,Plovdiv University,330845.26,3200
+Ghana,Kwame Nkrumah University,318797.26,4200
+Algeria,University of Oran,262951.46,1100
+Panama,ISAE University,333491.11,6800
+Ecuador,Universidad de Cuenca,328227.12,7200
+Lebanon,Lebanese University,-6782334.4,2000
+Bahrain,Bahrain Polytechnic,332723.31,6500
+Uruguay,Universidad Catolica,312613.2,7000
+Bulgaria,Technical University Varna,325862.03,3100
+Ghana,University of Cape Coast,328665.32,4000
+Algeria,University of Constantine,261955.29,1300
+Panama,Universidad Latina,327521.65,6500
+Ecuador,UTPL,328502.9,6800
+Lebanon,Holy Spirit University,-6778533.62,16000
+Bahrain,Arabian Gulf University,324498.75,9000
+Uruguay,UTEC,313181.02,0
+Bulgaria,Burgas Free University,327517.3,2900
+Ghana,University for Development,322918.65,3800
+Algeria,Badji Mokhtar University,263158.88,1000
+Panama,Quality Leadership University,329206.26,6200
+Ecuador,Universidad Tecnica,329205.36,6500
+Lebanon,Lebanese International,-6773506.07,15000
+Bahrain,Applied Science University,321209.93,7500
+Uruguay,Universidad de Paysandu,308653.16,0
+Bulgaria,University of Ruse,323761.04,3300
+Ghana,University of Health Sciences,327878.15,3500
+Algeria,University of Tlemcen,264728.38,900
+Panama,Universidad Metropolitana,327764.52,6000
+Bangladesh,Bangladesh University of Engineering,276642.38,2500
+Kuwait,Kuwait University,327582.36,3500
+Ukraine,Igor Sikorsky Kyiv Polytechnic,315035.59,3800
+Slovenia,University of Ljubljana,318399.91,4500
+Serbia,University of Belgrade,276070.42,2800
+Iran,Sharif University of Technology,-19634648.87,3000
+Uzbekistan,INHA University Tashkent,-5492983.85,4200
+El Salvador,Universidad Don Bosco,331108.97,5500
+Bangladesh,CUET,273167.57,2200
+Kuwait,American University Kuwait,320339.12,15000
+Ukraine,Lviv Polytechnic,311212.88,3500
+Slovenia,University of Maribor,328798.95,4200
+Serbia,University of Novi Sad,271862.64,2600
+Iran,Isfahan University of Technology,-19636202.35,2800
+Uzbekistan,Samarkand State University,-5495165.2,3800
+El Salvador,Universidad Catolica,330665.25,5000
+Bangladesh,Khulna University,280647.63,2100
+Kuwait,Gulf University for Science,320263.66,14000
+Ukraine,Kharkiv Polytechnic,315217.28,3400
+Slovenia,University of Primorska,329852.01,4000
+Serbia,University of Nis,275081.64,2500
+Iran,Ferdowsi University,-19638617.91,2900
+Uzbekistan,Bukhara State University,-5492371.96,3500
+El Salvador,Universidad de Oriente,328100.89,4800
+Bangladesh,RUET,277154.81,2000
+Kuwait,Australian College Kuwait,327946.22,13500
+Ukraine,Odesa Polytechnic,307557.74,3600
+Slovenia,University of Nova Gorica,325020.73,4100
+Serbia,University of Kragujevac,277428.57,2400
+Iran,Shiraz University,-19632431.36,2700
+Uzbekistan,Namangan Institute,-5491393.09,3400
+El Salvador,Universidad de Sonsonate,331643.96,4500
+Bangladesh,SUST,271570.56,2300
+Kuwait,ACK,324080.97,13000
+Ukraine,Dnipro Polytechnic,313262.23,3300
+Slovenia,Faculty of Logistics,324992.29,3900
+Serbia,University of Subotica,276785.89,2300
+Iran,University of Tabriz,-19639550.74,2600
+Uzbekistan,Andijan State University,-5493010.22,3200
+El Salvador,ITCA-FEPADE,330825.76,4200
+Malaysia,University of Malaya,-1362.77,8500
+Saudi Arabia,King Saud University,2354.23,5000
+USA,Harvard University,63493.92,58000
+UK,Imperial College,35119.78,42000
+Spain,Universidad Politecnica,212740.43,3500
+Italy,Politecnico di Milano,96107.8,4000
+France,Sorbonne University,2781.64,4500
+Malaysia,USM,216020.27,7500
+Saudi Arabia,King Abdulaziz University,211916.6,4800
+USA,Stanford University,54632.22,52000
+UK,University of Cambridge,34570.35,45000
+Spain,Universitat de Barcelona,112934.01,3800
+Italy,Sapienza University,247489.25,3500
+France,École Normale Supérieure,15468.97,4200
+Malaysia,UTM,213412.88,8000
+Saudi Arabia,KFUPM,215646.39,4500
+USA,UC Berkeley,47224.59,54000
+UK,University of Oxford,40517.99,40000
+Spain,Universidad de Valencia,212157.57,3200
+Italy,Politecnico di Torino,247755.39,3800
+France,INSA Toulouse,-3848.85,4300
+Malaysia,UNIMAS,216389.55,7000
+Saudi Arabia,Islamic University,223920.92,4200
+USA,Massachusetts,56015.36,56000
+UK,University of Edinburgh,35777.76,38000
+Spain,Universidad de Sevilla,215202.42,3000
+Italy,University of Bologna,243190.69,3600
+France,Aix-Marseille University,50708.83,4100
+Malaysia,Multimedia University,217383.05,7800
+Saudi Arabia,Imam Abdulrahman University,215695.37,4600
+USA,Columbia University,56517.56,62000
+UK,University of Manchester,24100.04,35000
+Spain,Universidad de Granada,216412.64,2800
+Italy,University of Florence,243860.83,3500
+France,University of Bordeaux,-1212.83,4300
+Malaysia,UKM,216651.33,7200
+Saudi Arabia,Taif University,219495.25,4400
+USA,UCLA,45084.91,52000
+UK,University of Bristol,32358.52,36000
+Spain,University of the Basque Country,221913.05,3400
+Italy,University of Naples,246900.53,3200
+France,University of Nice,8055.89,4100
+Malaysia,UTeM,211813.42,7500
+Saudi Arabia,University of Tabuk,218989.0,4100
+USA,University of Chicago,52023.88,58000
+UK,University of Glasgow,25415.53,34000
+Spain,University of Salamanca,216812.41,3100
+Italy,University of Pisa,250695.16,3300
+France,University of Lille,6497.38,4200
+Malaysia,UiTM,217865.6,7100
+Saudi Arabia,Umm Al-Qura University,216841.07,4300
+USA,Stanford University,54188.58,55000
+UK,University of Leeds,30936.86,35000
+Spain,University of Zaragoza,212911.67,2900
+Italy,University of Padua,247099.17,3400
+France,University of Strasbourg,5719.28,4000
+Malaysia,USIM,215994.57,6800
+Saudi Arabia,King Faisal University,216181.77,4200
+USA,University of Washington,48276.88,50000
+UK,University of Nottingham,29064.29,34000

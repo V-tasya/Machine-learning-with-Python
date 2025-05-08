@@ -1,0 +1,183 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+Luxembourg,Chamber of Commerce School,4200.0,400
+Indonesia,Udayana University,4200.0,3000
+Tunisia,University of Tunis,4800.0,1500
+Cyprus,University of Cyprus,4500.0,8000
+Croatia,University of Zagreb,4500.0,4000
+Dominican Republic,INTEC,1800.0,6000
+Morocco,Mohammed V University,4800.0,2000
+Peru,PUCP,4200.0,8500
+Argentina,University of Buenos Aires,1800.0,0
+Tunisia,University of Sfax,4800.0,1400
+Cyprus,Cyprus University of Technology,3800.0,7500
+Croatia,University of Split,4500.0,3800
+Dominican Republic,PUCMM,1800.0,5500
+Morocco,Hassan II University,4800.0,2200
+Peru,Universidad San Agustin,2500.0,7000
+Argentina,National University of Cordoba,1800.0,0
+Tunisia,University of Sousse,4800.0,1300
+Cyprus,American University Cyprus,4500.0,8200
+Croatia,University of Rijeka,4500.0,3500
+Dominican Republic,Universidad Central Este,1800.0,5000
+Morocco,University of Al Quaraouiyine,4800.0,1800
+Peru,Universidad Nacional de Trujillo,4200.0,7500
+Argentina,National University of Rosario,1800.0,0
+Tunisia,University of Monastir,4800.0,1600
+Cyprus,Eastern Mediterranean University,4500.0,7800
+Croatia,University of Osijek,3900.0,3200
+Dominican Republic,UCNE,1800.0,4800
+Morocco,Cadi Ayyad University,4800.0,2100
+Peru,Universidad San Antonio Abad,4200.0,6800
+Argentina,National University of La Plata,1800.0,0
+Tunisia,University of Gabes,4800.0,1400
+Croatia,University of Zadar,4500.0,3600
+Cyprus,Neapolis University,3900.0,7400
+Dominican Republic,UTESA,1800.0,4500
+Morocco,Abdelmalek Essaadi University,4800.0,1900
+Peru,Universidad de Piura,4200.0,7200
+Argentina,National University of Cuyo,1800.0,0
+Tunisia,University of Carthage,4800.0,1200
+Cyprus,Girne American University,4500.0,7600
+Croatia,University of Dubrovnik,4500.0,3400
+Morocco,Mohammed I University,4800.0,1700
+Peru,Universidad San Martin,4200.0,6500
+Ecuador,Universidad San Francisco,4800.0,8500
+Lebanon,American University of Beirut,4200.0,20000
+Bahrain,University of Bahrain,2500.0,7000
+Uruguay,Universidad de la Republica,1800.0,0
+Bulgaria,Sofia University,4800.0,3500
+Ghana,University of Ghana,4200.0,4500
+Algeria,University of Science and Technology,1800.0,1200
+Panama,Universidad Tecnologica,4500.0,7500
+Ecuador,ESPOL,4800.0,7800
+Lebanon,Lebanese American University,4200.0,18000
+Bahrain,Royal University for Women,4200.0,8000
+Uruguay,Universidad ORT Uruguay,1800.0,6500
+Bulgaria,Plovdiv University,4800.0,3200
+Ghana,Kwame Nkrumah University,2500.0,4200
+Algeria,University of Oran,1800.0,1100
+Panama,ISAE University,3900.0,6800
+Ecuador,Universidad de Cuenca,4800.0,7200
+Lebanon,Lebanese University,4200.0,2000
+Bahrain,Bahrain Polytechnic,4200.0,6500
+Uruguay,Universidad Catolica,1800.0,7000
+Bulgaria,Technical University Varna,4800.0,3100
+Ghana,University of Cape Coast,4200.0,4000
+Algeria,University of Constantine,1800.0,1300
+Panama,Universidad Latina,3800.0,6500
+Ecuador,UTPL,4800.0,6800
+Lebanon,Holy Spirit University,2500.0,16000
+Bahrain,Arabian Gulf University,4200.0,9000
+Uruguay,UTEC,1800.0,0
+Bulgaria,Burgas Free University,4800.0,2900
+Ghana,University for Development,4200.0,3800
+Algeria,Badji Mokhtar University,1800.0,1000
+Panama,Quality Leadership University,3900.0,6200
+Ecuador,Universidad Tecnica,4800.0,6500
+Lebanon,Lebanese International,4200.0,15000
+Bahrain,Applied Science University,4200.0,7500
+Uruguay,Universidad de Paysandu,1800.0,0
+Bulgaria,University of Ruse,4800.0,3300
+Ghana,University of Health Sciences,4200.0,3500
+Algeria,University of Tlemcen,1800.0,900
+Panama,Universidad Metropolitana,3800.0,6000
+Bangladesh,Bangladesh University of Engineering,1800.0,2500
+Kuwait,Kuwait University,0.0,3500
+Ukraine,Igor Sikorsky Kyiv Polytechnic,2500.0,3800
+Slovenia,University of Ljubljana,4500.0,4500
+Serbia,University of Belgrade,1800.0,2800
+Iran,Sharif University of Technology,4200.0,3000
+Uzbekistan,INHA University Tashkent,2500.0,4200
+El Salvador,Universidad Don Bosco,4800.0,5500
+Bangladesh,CUET,1800.0,2200
+Kuwait,American University Kuwait,0.0,15000
+Ukraine,Lviv Polytechnic,4200.0,3500
+Slovenia,University of Maribor,4500.0,4200
+Serbia,University of Novi Sad,1800.0,2600
+Iran,Isfahan University of Technology,4200.0,2800
+Uzbekistan,Samarkand State University,2500.0,3800
+El Salvador,Universidad Catolica,4800.0,5000
+Bangladesh,Khulna University,1800.0,2100
+Kuwait,Gulf University for Science,0.0,14000
+Ukraine,Kharkiv Polytechnic,4200.0,3400
+Slovenia,University of Primorska,3900.0,4000
+Serbia,University of Nis,1800.0,2500
+Iran,Ferdowsi University,4200.0,2900
+Uzbekistan,Bukhara State University,2500.0,3500
+El Salvador,Universidad de Oriente,4800.0,4800
+Bangladesh,RUET,1800.0,2000
+Kuwait,Australian College Kuwait,4200.0,13500
+Ukraine,Odesa Polytechnic,4200.0,3600
+Slovenia,University of Nova Gorica,3800.0,4100
+Serbia,University of Kragujevac,1800.0,2400
+Iran,Shiraz University,4200.0,2700
+Uzbekistan,Namangan Institute,2500.0,3400
+El Salvador,Universidad de Sonsonate,4800.0,4500
+Bangladesh,SUST,1800.0,2300
+Kuwait,ACK,2500.0,13000
+Ukraine,Dnipro Polytechnic,4200.0,3300
+Slovenia,Faculty of Logistics,3900.0,3900
+Serbia,University of Subotica,1800.0,2300
+Iran,University of Tabriz,4200.0,2600
+Uzbekistan,Andijan State University,2500.0,3200
+El Salvador,ITCA-FEPADE,4800.0,4200
+Malaysia,University of Malaya,4200.0,8500
+Saudi Arabia,King Saud University,7800.0,5000
+USA,Harvard University,54000.0,58000
+UK,Imperial College,39200.0,42000
+Spain,Universidad Politecnica,4500.0,3500
+Italy,Politecnico di Milano,0.0,4000
+France,Sorbonne University,4500.0,4500
+Malaysia,USM,4200.0,7500
+Saudi Arabia,King Abdulaziz University,7800.0,4800
+USA,Stanford University,54200.0,52000
+UK,University of Cambridge,29800.0,45000
+Spain,Universitat de Barcelona,4500.0,3800
+Italy,Sapienza University,0.0,3500
+France,École Normale Supérieure,4200.0,4200
+Malaysia,UTM,4200.0,8000
+Saudi Arabia,KFUPM,7800.0,4500
+USA,UC Berkeley,54000.0,54000
+UK,University of Oxford,39200.0,40000
+Spain,Universidad de Valencia,4500.0,3200
+Italy,Politecnico di Torino,0.0,3800
+France,INSA Toulouse,4200.0,4300
+Malaysia,UNIMAS,4200.0,7000
+Saudi Arabia,Islamic University,7800.0,4200
+USA,Massachusetts,54000.0,56000
+UK,University of Edinburgh,36800.0,38000
+Spain,Universidad de Sevilla,4500.0,3000
+Italy,University of Bologna,0.0,3600
+France,Aix-Marseille University,4200.0,4100
+Malaysia,Multimedia University,4200.0,7800
+Saudi Arabia,Imam Abdulrahman University,7800.0,4600
+USA,Columbia University,52800.0,62000
+UK,University of Manchester,27200.0,35000
+Spain,Universidad de Granada,3900.0,2800
+Italy,University of Florence,0.0,3500
+France,University of Bordeaux,4300.0,4300
+Malaysia,UKM,4200.0,7200
+Saudi Arabia,Taif University,7800.0,4400
+USA,UCLA,43000.0,52000
+UK,University of Bristol,36000.0,36000
+Spain,University of the Basque Country,4500.0,3400
+Italy,University of Naples,0.0,3200
+France,University of Nice,4100.0,4100
+Malaysia,UTeM,2500.0,7500
+Saudi Arabia,University of Tabuk,7800.0,4100
+USA,University of Chicago,58000.0,58000
+UK,University of Glasgow,27900.0,34000
+Spain,University of Salamanca,4500.0,3100
+Italy,University of Pisa,0.0,3300
+France,University of Lille,3900.0,4200
+Malaysia,UiTM,4200.0,7100
+Saudi Arabia,Umm Al-Qura University,7800.0,4300
+USA,Stanford University,52000.0,55000
+UK,University of Leeds,34000.0,35000
+Spain,University of Zaragoza,4500.0,2900
+Italy,University of Padua,0.0,3400
+France,University of Strasbourg,4200.0,4000
+Malaysia,USIM,4200.0,6800
+Saudi Arabia,King Faisal University,7800.0,4200
+USA,University of Washington,50000.0,50000
+UK,University of Nottingham,33000.0,34000

@@ -1,0 +1,183 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+Luxembourg,Chamber of Commerce School,26139.71,400
+Indonesia,Udayana University,26175.97,3000
+Tunisia,University of Tunis,26152.38,1500
+Cyprus,University of Cyprus,26127.32,8000
+Croatia,University of Zagreb,26148.7,4000
+Dominican Republic,INTEC,26154.8,6000
+Morocco,Mohammed V University,26147.04,2000
+Peru,PUCP,26142.2,8500
+Argentina,University of Buenos Aires,26161.13,0
+Tunisia,University of Sfax,26155.61,1400
+Cyprus,Cyprus University of Technology,26149.83,7500
+Croatia,University of Split,26131.67,3800
+Dominican Republic,PUCMM,26147.34,5500
+Morocco,Hassan II University,26155.0,2200
+Peru,Universidad San Agustin,26156.12,7000
+Argentina,National University of Cordoba,26150.29,0
+Tunisia,University of Sousse,26158.87,1300
+Cyprus,American University Cyprus,26149.23,8200
+Croatia,University of Rijeka,26132.72,3500
+Dominican Republic,Universidad Central Este,26158.37,5000
+Morocco,University of Al Quaraouiyine,26148.8,1800
+Peru,Universidad Nacional de Trujillo,26157.61,7500
+Argentina,National University of Rosario,26151.11,0
+Tunisia,University of Monastir,26162.7,1600
+Cyprus,Eastern Mediterranean University,26128.2,7800
+Croatia,University of Osijek,26142.66,3200
+Dominican Republic,UCNE,26150.53,4800
+Morocco,Cadi Ayyad University,26157.4,2100
+Peru,Universidad San Antonio Abad,26147.85,6800
+Argentina,National University of La Plata,26160.07,0
+Tunisia,University of Gabes,26157.76,1400
+Croatia,University of Zadar,26150.59,3600
+Cyprus,Neapolis University,26138.95,7400
+Dominican Republic,UTESA,26159.73,4500
+Morocco,Abdelmalek Essaadi University,26149.01,1900
+Peru,Universidad de Piura,26149.12,7200
+Argentina,National University of Cuyo,26160.96,0
+Tunisia,University of Carthage,26160.71,1200
+Cyprus,Girne American University,26129.07,7600
+Croatia,University of Dubrovnik,26133.08,3400
+Morocco,Mohammed I University,26158.9,1700
+Peru,Universidad San Martin,26159.08,6500
+Ecuador,Universidad San Francisco,26140.9,8500
+Lebanon,American University of Beirut,26176.03,20000
+Bahrain,University of Bahrain,26153.59,7000
+Uruguay,Universidad de la Republica,26150.58,0
+Bulgaria,Sofia University,26139.53,3500
+Ghana,University of Ghana,26146.81,4500
+Algeria,University of Science and Technology,26154.13,1200
+Panama,Universidad Tecnologica,26134.76,7500
+Ecuador,ESPOL,26156.07,7800
+Lebanon,Lebanese American University,26176.01,18000
+Bahrain,Royal University for Women,26129.52,8000
+Uruguay,Universidad ORT Uruguay,26137.65,6500
+Bulgaria,Plovdiv University,26147.56,3200
+Ghana,Kwame Nkrumah University,26158.16,4200
+Algeria,University of Oran,26152.16,1100
+Panama,ISAE University,26153.03,6800
+Ecuador,Universidad de Cuenca,26145.12,7200
+Lebanon,Lebanese University,26175.84,2000
+Bahrain,Bahrain Polytechnic,26152.57,6500
+Uruguay,Universidad Catolica,26137.33,7000
+Bulgaria,Technical University Varna,26142.84,3100
+Ghana,University of Cape Coast,26150.46,4000
+Algeria,University of Constantine,26160.76,1300
+Panama,Universidad Latina,26139.5,6500
+Ecuador,UTPL,26150.94,6800
+Lebanon,Holy Spirit University,26176.01,16000
+Bahrain,Arabian Gulf University,26151.97,9000
+Uruguay,UTEC,26152.6,0
+Bulgaria,Burgas Free University,26143.65,2900
+Ghana,University for Development,26160.32,3800
+Algeria,Badji Mokhtar University,26154.17,1000
+Panama,Quality Leadership University,26147.91,6200
+Ecuador,Universidad Tecnica,26157.45,6500
+Lebanon,Lebanese International,26175.74,15000
+Bahrain,Applied Science University,26129.45,7500
+Uruguay,Universidad de Paysandu,26139.89,0
+Bulgaria,University of Ruse,26156.27,3300
+Ghana,University of Health Sciences,26153.45,3500
+Algeria,University of Tlemcen,26158.44,900
+Panama,Universidad Metropolitana,26141.97,6000
+Bangladesh,Bangladesh University of Engineering,26146.69,2500
+Kuwait,Kuwait University,26132.94,3500
+Ukraine,Igor Sikorsky Kyiv Polytechnic,26154.17,3800
+Slovenia,University of Ljubljana,26147.94,4500
+Serbia,University of Belgrade,26139.05,2800
+Iran,Sharif University of Technology,26176.32,3000
+Uzbekistan,INHA University Tashkent,26175.98,4200
+El Salvador,Universidad Don Bosco,26141.12,5500
+Bangladesh,CUET,26158.76,2200
+Kuwait,American University Kuwait,26131.86,15000
+Ukraine,Lviv Polytechnic,26143.91,3500
+Slovenia,University of Maribor,26129.18,4200
+Serbia,University of Novi Sad,26153.9,2600
+Iran,Isfahan University of Technology,26176.32,2800
+Uzbekistan,Samarkand State University,26176.13,3800
+El Salvador,Universidad Catolica,26154.03,5000
+Bangladesh,Khulna University,26151.62,2100
+Kuwait,Gulf University for Science,26155.26,14000
+Ukraine,Kharkiv Polytechnic,26145.11,3400
+Slovenia,University of Primorska,26139.49,4000
+Serbia,University of Nis,26142.43,2500
+Iran,Ferdowsi University,26176.32,2900
+Uzbekistan,Bukhara State University,26176.0,3500
+El Salvador,Universidad de Oriente,26144.64,4800
+Bangladesh,RUET,26152.26,2000
+Kuwait,Australian College Kuwait,26143.69,13500
+Ukraine,Odesa Polytechnic,26156.92,3600
+Slovenia,University of Nova Gorica,26130.32,4100
+Serbia,University of Kragujevac,26155.03,2400
+Iran,Shiraz University,26176.32,2700
+Uzbekistan,Namangan Institute,26176.14,3400
+El Salvador,Universidad de Sonsonate,26149.81,4500
+Bangladesh,SUST,26159.84,2300
+Kuwait,ACK,26130.03,13000
+Ukraine,Dnipro Polytechnic,26147.46,3300
+Slovenia,Faculty of Logistics,26140.15,3900
+Serbia,University of Subotica,26144.03,2300
+Iran,University of Tabriz,26176.32,2600
+Uzbekistan,Andijan State University,26176.14,3200
+El Salvador,ITCA-FEPADE,26155.3,4200
+Malaysia,University of Malaya,26142.82,8500
+Saudi Arabia,King Saud University,26166.74,5000
+USA,Harvard University,26191.12,58000
+UK,Imperial College,26196.57,42000
+Spain,Universidad Politecnica,26163.48,3500
+Italy,Politecnico di Milano,26150.8,4000
+France,Sorbonne University,26170.56,4500
+Malaysia,USM,26146.17,7500
+Saudi Arabia,King Abdulaziz University,26142.03,4800
+USA,Stanford University,26198.78,52000
+UK,University of Cambridge,26201.2,45000
+Spain,Universitat de Barcelona,26141.95,3800
+Italy,Sapienza University,26155.62,3500
+France,École Normale Supérieure,26148.18,4200
+Malaysia,UTM,26154.19,8000
+Saudi Arabia,KFUPM,26142.45,4500
+USA,UC Berkeley,26190.23,54000
+UK,University of Oxford,26189.47,40000
+Spain,Universidad de Valencia,26156.68,3200
+Italy,Politecnico di Torino,26136.76,3800
+France,INSA Toulouse,26165.06,4300
+Malaysia,UNIMAS,26140.32,7000
+Saudi Arabia,Islamic University,26162.56,4200
+USA,Massachusetts,26200.47,56000
+UK,University of Edinburgh,26184.0,38000
+Spain,Universidad de Sevilla,26132.59,3000
+Italy,University of Bologna,26161.41,3600
+France,Aix-Marseille University,26142.33,4100
+Malaysia,Multimedia University,26145.76,7800
+Saudi Arabia,Imam Abdulrahman University,26142.06,4600
+USA,Columbia University,26185.75,62000
+UK,University of Manchester,26188.94,35000
+Spain,Universidad de Granada,26146.73,2800
+Italy,University of Florence,26139.71,3500
+France,University of Bordeaux,26164.97,4300
+Malaysia,UKM,26138.9,7200
+Saudi Arabia,Taif University,26140.27,4400
+USA,UCLA,26196.92,52000
+UK,University of Bristol,26186.16,36000
+Spain,University of the Basque Country,26134.88,3400
+Italy,University of Naples,26150.5,3200
+France,University of Nice,26153.77,4100
+Malaysia,UTeM,26154.27,7500
+Saudi Arabia,University of Tabuk,26160.33,4100
+USA,University of Chicago,26188.34,58000
+UK,University of Glasgow,26189.92,34000
+Spain,University of Salamanca,26132.71,3100
+Italy,University of Pisa,26136.38,3300
+France,University of Lille,26158.03,4200
+Malaysia,UiTM,26139.01,7100
+Saudi Arabia,Umm Al-Qura University,26161.83,4300
+USA,Stanford University,26187.51,55000
+UK,University of Leeds,26178.87,35000
+Spain,University of Zaragoza,26154.05,2900
+Italy,University of Padua,26136.61,3400
+France,University of Strasbourg,26145.11,4000
+Malaysia,USIM,26147.65,6800
+Saudi Arabia,King Faisal University,26139.98,4200
+USA,University of Washington,26198.11,50000
+UK,University of Nottingham,26176.99,34000

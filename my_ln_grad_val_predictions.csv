@@ -1,0 +1,137 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+Luxembourg,Chamber of Commerce School,2216.99,400
+Indonesia,Udayana University,146.37,3000
+Tunisia,University of Tunis,-692.49,1500
+Cyprus,University of Cyprus,1118.94,8000
+Croatia,University of Zagreb,287.61,4000
+Dominican Republic,INTEC,-91.59,6000
+Morocco,Mohammed V University,-380.0,2000
+Peru,PUCP,412.05,8500
+Argentina,University of Buenos Aires,-238.69,0
+Tunisia,University of Sfax,-802.39,1400
+Cyprus,Cyprus University of Technology,806.54,7500
+Croatia,University of Split,375.04,3800
+Dominican Republic,PUCMM,-60.29,5500
+Morocco,Hassan II University,-419.24,2200
+Peru,Universidad San Agustin,43.9,7000
+Argentina,National University of Cordoba,-206.68,0
+Tunisia,University of Sousse,-1044.77,1300
+Cyprus,American University Cyprus,762.21,8200
+Croatia,University of Rijeka,311.73,3500
+Dominican Republic,Universidad Central Este,-272.1,5000
+Morocco,University of Al Quaraouiyine,-473.53,1800
+Peru,Universidad Nacional de Trujillo,4.89,7500
+Argentina,National University of Rosario,-217.73,0
+Tunisia,University of Monastir,-1067.12,1600
+Cyprus,Eastern Mediterranean University,863.41,7800
+Croatia,University of Osijek,94.31,3200
+Dominican Republic,UCNE,-155.15,4800
+Morocco,Cadi Ayyad University,-578.55,2100
+Peru,Universidad San Antonio Abad,153.03,6800
+Argentina,National University of La Plata,-501.66,0
+Tunisia,University of Gabes,-882.99,1400
+Croatia,University of Zadar,68.44,3600
+Cyprus,Neapolis University,651.07,7400
+Dominican Republic,UTESA,-336.28,4500
+Morocco,Abdelmalek Essaadi University,-475.37,1900
+Peru,Universidad de Piura,124.42,7200
+Argentina,National University of Cuyo,-521.31,0
+Tunisia,University of Carthage,-1086.88,1200
+Cyprus,Girne American University,811.51,7600
+Croatia,University of Dubrovnik,305.69,3400
+Morocco,Mohammed I University,-689.94,1700
+Peru,Universidad San Martin,-78.19,6500
+Ecuador,Universidad San Francisco,207.12,8500
+Lebanon,American University of Beirut,1462.39,20000
+Bahrain,University of Bahrain,1450.34,7000
+Uruguay,Universidad de la Republica,206.76,0
+Bulgaria,Sofia University,325.38,3500
+Ghana,University of Ghana,88.05,4500
+Algeria,University of Science and Technology,-613.01,1200
+Panama,Universidad Tecnologica,684.9,7500
+Ecuador,ESPOL,-119.81,7800
+Lebanon,Lebanese American University,1314.94,18000
+Bahrain,Royal University for Women,1527.32,8000
+Uruguay,Universidad ORT Uruguay,217.2,6500
+Bulgaria,Plovdiv University,58.89,3200
+Ghana,Kwame Nkrumah University,-192.84,4200
+Algeria,University of Oran,-512.66,1100
+Panama,ISAE University,222.74,6800
+Ecuador,Universidad de Cuenca,27.08,7200
+Lebanon,Lebanese University,925.07,2000
+Bahrain,Bahrain Polytechnic,1258.07,6500
+Uruguay,Universidad Catolica,241.14,7000
+Bulgaria,Technical University Varna,199.91,3100
+Ghana,University of Cape Coast,-69.46,4000
+Algeria,University of Constantine,-782.13,1300
+Panama,Universidad Latina,354.73,6500
+Ecuador,UTPL,-158.81,6800
+Lebanon,Holy Spirit University,1197.41,16000
+Bahrain,Arabian Gulf University,1312.78,9000
+Uruguay,UTEC,-45.62,0
+Bulgaria,Burgas Free University,160.04,2900
+Ghana,University for Development,-318.37,3800
+Algeria,Badji Mokhtar University,-596.19,1000
+Panama,Quality Leadership University,106.93,6200
+Ecuador,Universidad Tecnica,-257.75,6500
+Lebanon,Lebanese International,943.6,15000
+Bahrain,Applied Science University,1437.22,7500
+Uruguay,Universidad de Paysandu,90.87,0
+Bulgaria,University of Ruse,-65.98,3300
+Ghana,University of Health Sciences,-171.86,3500
+Algeria,University of Tlemcen,-845.58,900
+Panama,Universidad Metropolitana,249.81,6000
+Bangladesh,Bangladesh University of Engineering,-186.13,2500
+Kuwait,Kuwait University,2121.54,3500
+Ukraine,Igor Sikorsky Kyiv Polytechnic,165.58,3800
+Slovenia,University of Ljubljana,538.33,4500
+Serbia,University of Belgrade,115.0,2800
+Iran,Sharif University of Technology,688.66,3000
+Uzbekistan,INHA University Tashkent,340.27,4200
+El Salvador,Universidad Don Bosco,284.79,5500
+Bangladesh,CUET,-482.26,2200
+Kuwait,American University Kuwait,2021.06,15000
+Ukraine,Lviv Polytechnic,270.36,3500
+Slovenia,University of Maribor,547.2,4200
+Serbia,University of Novi Sad,-162.04,2600
+Iran,Isfahan University of Technology,428.1,2800
+Uzbekistan,Samarkand State University,372.76,3800
+El Salvador,Universidad Catolica,56.25,5000
+Bangladesh,Khulna University,-380.13,2100
+Kuwait,Gulf University for Science,1760.82,14000
+Ukraine,Kharkiv Polytechnic,214.79,3400
+Slovenia,University of Primorska,310.54,4000
+Serbia,University of Nis,11.23,2500
+Iran,Ferdowsi University,345.64,2900
+Uzbekistan,Bukhara State University,153.51,3500
+El Salvador,Universidad de Oriente,131.74,4800
+Bangladesh,RUET,-410.94,2000
+Kuwait,Australian College Kuwait,1715.9,13500
+Ukraine,Odesa Polytechnic,23.64,3600
+Slovenia,University of Nova Gorica,469.62,4100
+Serbia,University of Kragujevac,-248.27,2400
+Iran,Shiraz University,485.62,2700
+Uzbekistan,Namangan Institute,256.05,3400
+El Salvador,Universidad de Sonsonate,-53.56,4500
+Bangladesh,SUST,-569.5,2300
+Kuwait,ACK,1816.12,13000
+Ukraine,Dnipro Polytechnic,126.88,3300
+Slovenia,Faculty of Logistics,250.11,3900
+Serbia,University of Subotica,-70.33,2300
+Iran,University of Tabriz,284.79,2600
+Uzbekistan,Andijan State University,223.32,3200
+El Salvador,ITCA-FEPADE,-82.4,4200
+Malaysia,University of Malaya,848.91,8500
+Saudi Arabia,King Saud University,2643.78,5000
+USA,Harvard University,5312.59,58000
+UK,Imperial College,6759.81,42000
+Spain,Universidad Politecnica,1773.65,3500
+Italy,Politecnico di Milano,2387.61,4000
+France,Sorbonne University,3339.67,4500
+Malaysia,USM,556.65,7500
+Saudi Arabia,King Abdulaziz University,2728.95,4800
+USA,Stanford University,5251.35,52000
+UK,University of Cambridge,6188.26,45000
+Spain,Universitat de Barcelona,1902.32,3800
+Italy,Sapienza University,2083.96,3500
+France,École Normale Supérieure,2522.81,4200

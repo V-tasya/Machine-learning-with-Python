@@ -15,12 +15,23 @@ import numpy as np
 numerical_values = ['Duration_Years', 'Living_Cost_Index', 'Rent_USD', 'Visa_Fee_USD', 'Insurance_USD', 'Exchange_Rate']
 categorical_values = ['Country', 'City', 'University', 'Program', 'Level']
 target_attribute = 'Tuition_USD'
-models = {'ln': LinearRegression(), 'dt': DecisionTreeRegressor(random_state=42), 'svr': SVR()}
+models = {'ln': LinearRegression(), 'dd': DecisionTreeRegressor(random_state=42), 'svr': SVR()}
 result = {}
 
-
 def reader(file):
-  data_frame = pd.read_csv(file)
+  try:
+    data_frame = pd.read_csv(file)
+    if data_frame.empty:
+      print("The file is empty.")
+      return 
+    print("rows, columns:", data_frame.shape) 
+  except FileNotFoundError:
+    print("The file wasn't found.")
+    return
+  except Exception as exeption:
+    print(f"Error: {exeption}")
+    return
+  
   return data_frame
 
 def analizer(data_frame):
@@ -38,41 +49,47 @@ def analizer(data_frame):
   return columns_without_target, target_variables_column, preprocessing
 
 def training(columns_without_target, target_variables_column, preprocessing, countries, universities):
-  index = int(len(columns_without_target) * 0.2)
-  columns_without_target_train = columns_without_target.iloc[index:]
-  columns_without_target_test = columns_without_target.iloc[:index]
-  target_variables_column_train = target_variables_column.iloc[index:]
-  target_variables_column_test = target_variables_column.iloc[:index]  
-  countries_train = countries.iloc[index:]
-  countries_test = countries.iloc[:index]
-  universities_train = universities.iloc[index:]
-  universities_test = universities.iloc[:index]
+  columns_without_target_temp, columns_without_target_test, target_variables_column_temp, target_variables_column_test = train_test_split(columns_without_target, target_variables_column, test_size=0.2, random_state=42, shuffle=False)
+  columns_without_target_train, columns_without_target_val, target_variables_column_train, target_variables_column_val = train_test_split(columns_without_target_temp, target_variables_column_temp, test_size=0.25, random_state=42, shuffle=False)
+
+  countries_train = countries.loc[columns_without_target_train.index]
+  countries_val = countries.loc[columns_without_target_val.index]
+  countries_test = countries.loc[columns_without_target_test.index]
+  university_train = universities.loc[columns_without_target_train.index]
+  university_val = universities.loc[columns_without_target_val.index]
+  university_test = universities.loc[columns_without_target_test.index]
+
+  list_of_sets = [('train', columns_without_target_train, target_variables_column_train, countries_train, university_train),
+                  ('validate', columns_without_target_val, target_variables_column_val, countries_val, university_val),
+                  ('test', columns_without_target_test, target_variables_column_test, countries_test, university_test)]
   
   for id, model in models.items():
     trainer = Pipeline([('processor', preprocessing), ('model', model)])
     trainer.fit(columns_without_target_train, target_variables_column_train)
-    prediction = trainer.predict(columns_without_target_test)
-    prediction = np.round(prediction, 2)
-    write_to_csv(id, countries_test, universities_test, prediction)
+    for name, col, targ, countr, uni in list_of_sets:
+      prediction = trainer.predict(col)
+      prediction = np.round(prediction, 2)
+      output_file = f'{id}_{name}'
+      write_to_csv(output_file, countr, uni, prediction, targ)
     
-    mean_abs_er = mean_absolute_error(target_variables_column_test, prediction)
-    rout_mn_sqrt_er = math.sqrt(mean_squared_error(target_variables_column_test, prediction))
-    mean_abs_er = round(mean_abs_er, 2)
-    rout_mn_sqrt_er = round(rout_mn_sqrt_er, 2)
+      mean_abs_er = mean_absolute_error(targ, prediction)
+      rout_mn_sqrt_er = math.sqrt(mean_squared_error(targ, prediction))
+      mean_abs_er = round(mean_abs_er, 2)
+      rout_mn_sqrt_er = round(rout_mn_sqrt_er, 2)
+    
+      print()
+      print('Model: ', id, ', set: ', name)
+      print('Mean average error: ', mean_abs_er)
+      print('Rout mean squared error: ', rout_mn_sqrt_er)
 
-    print('Model: ', id)
-    print('Mean average error: ', mean_abs_er)
-    print('Rout mean squared error: ', rout_mn_sqrt_er)
-    print()
-
-def write_to_csv(model,countries, universities, prediction):
+def write_to_csv(file,countries, universities, prediction, enum):
   data_frame = pd.DataFrame({
     'Country': countries,
     'University': universities,
     'Predicted_Tuition_USD': prediction.flatten(),
+    'Tuition_USD': enum.values
   })
-  data_frame.to_csv(f'{model}_predictions.csv', index=False)
-
+  data_frame.to_csv(f'{file}_predictions.csv', index=False)
 
 def main():
   file = r'C:\Users\37529\PythonProjects\Project2\International_Education_Costs.csv'
