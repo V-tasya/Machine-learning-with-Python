@@ -1,0 +1,182 @@
+Country,University,Predicted_Tuition_USD
+USA,Harvard University,6904.03
+UK,Imperial College London,6912.18
+Canada,University of Toronto,6899.59
+Australia,University of Melbourne,6917.73
+Germany,Technical University of Munich,6855.02
+Japan,University of Tokyo,6887.65
+Netherlands,University of Amsterdam,6880.39
+Singapore,National University of Singapore,6883.97
+France,Sorbonne University,6869.52
+Switzerland,ETH Zurich,6889.32
+Sweden,KTH Royal Institute,6862.44
+Denmark,University of Copenhagen,6869.19
+China,Tsinghua University,6848.23
+South Korea,Seoul National University,6854.64
+Ireland,Trinity College Dublin,6878.84
+South Korea,Pusan National University,6862.8
+New Zealand,University of Auckland,6894.93
+Austria,University of Vienna,6870.09
+Belgium,KU Leuven,6877.04
+USA,University of Michigan,6907.61
+USA,Georgia Tech,6907.18
+USA,UT Austin,6908.87
+UK,University of Bristol,6927.75
+Canada,University of Ottawa,6909.95
+Hong Kong,HKUST,6896.33
+Portugal,University of Lisbon,6855.77
+Israel,Tel Aviv University,6900.06
+Taiwan,National Taiwan University,6861.25
+Czech Republic,Charles University,6837.2
+USA,Stanford University,6905.02
+USA,MIT,6902.33
+UK,University of Oxford,6931.4
+UK,University of Cambridge,6927.01
+Germany,Heidelberg University,6855.55
+Switzerland,ETH Basel,6898.53
+Netherlands,TU Delft,6888.21
+Singapore,NTU Singapore,6891.89
+Canada,University of Waterloo,6904.65
+Australia,Australian National University,6927.48
+Sweden,Lund University,6867.52
+USA,UC San Diego,6914.37
+USA,University of Washington,6904.01
+Canada,University of Alberta,6909.52
+UK,University of Glasgow,6912.77
+India,Indian Institute of Science,6850.08
+Denmark,Aalborg University,6873.32
+Poland,University of Warsaw,6843.47
+Ireland,NUI Galway,6892.58
+South Korea,KAIST,6867.64
+Malaysia,University of Malaya,6855.48
+USA,UC Berkeley,6913.54
+UK,University of Manchester,6929.53
+Canada,University of British Columbia,6917.49
+Australia,University of Sydney,6936.58
+Germany,Free University of Berlin,6855.31
+Spain,University of Barcelona,6872.97
+Italy,Politecnico di Milano,6870.43
+Netherlands,Erasmus University,6891.33
+Finland,University of Helsinki,6878.12
+Norway,University of Oslo,6883.19
+Japan,Osaka University,6892.83
+Japan,Kyoto University,6881.61
+Japan,Nagoya University,6886.55
+Japan,Tohoku University,6858.43
+Japan,Kyushu University,6876.64
+Japan,Hokkaido University,6855.24
+Japan,Tokyo Institute of Technology,6889.87
+Japan,University of Tsukuba,6877.05
+Japan,Kobe University,6871.9
+Japan,Kanazawa University,6873.01
+Japan,Hiroshima University,6855.01
+Australia,University of Adelaide,6935.79
+Australia,University of Western Australia,6912.86
+Australia,Griffith University,6922.19
+Australia,University of Tasmania,6906.53
+Australia,University of Newcastle,6918.51
+Australia,University of Wollongong,6909.04
+Australia,Charles Darwin University,6921.63
+Australia,James Cook University,6906.11
+Australia,USC,6926.0
+Australia,University of New England,6903.26
+Germany,TU Dresden,6851.13
+Germany,University of Stuttgart,6858.67
+Germany,TU Hamburg,6853.28
+Germany,RWTH Aachen,6852.78
+Germany,KIT,6848.09
+Germany,TU Darmstadt,6855.23
+Germany,TU Braunschweig,6836.86
+Germany,University of Jena,6850.88
+Germany,Leibniz University,6836.61
+Germany,University of Freiburg,6838.87
+USA,University of Pennsylvania,6903.65
+USA,University of Chicago,6899.59
+USA,Johns Hopkins,6906.04
+USA,Vanderbilt University,6910.43
+USA,Duke University,6894.5
+USA,University of Wisconsin,6905.95
+USA,Arizona State University,6901.56
+USA,University of Colorado,6898.85
+USA,University of Minnesota,6911.55
+USA,UC Davis,6896.24
+UK,University College London,6918.92
+UK,University of Leeds,6922.79
+UK,University of Warwick,6903.12
+UK,University of Sheffield,6913.93
+UK,University of Birmingham,6922.35
+UK,University of Southampton,6900.5
+UK,University of Nottingham,6932.04
+UK,Cardiff University,6898.18
+UK,Queen's University Belfast,6927.32
+UK,Newcastle University,6898.61
+Canada,McMaster University,6904.49
+Canada,Western University,6896.32
+Canada,Dalhousie University,6888.86
+Canada,University of Victoria,6906.51
+Canada,Laval University,6879.53
+Canada,University of Manitoba,6906.35
+Canada,University of Regina,6894.57
+Canada,Memorial University,6889.7
+Canada,University of Saskatchewan,6881.96
+Canada,Université de Sherbrooke,6887.5
+USA,Carnegie Mellon,6903.12
+USA,UIUC,6908.14
+Canada,University of Calgary,6907.16
+Brazil,University of Sao Paulo,6849.23
+Turkey,Bogazici University,6846.16
+Russia,Moscow State University,6840.53
+Mexico,UNAM,6852.8
+Greece,National Technical University,6840.05
+Thailand,Chulalongkorn University,6856.39
+UAE,American University in Dubai,6918.96
+USA,Columbia University,6896.26
+USA,Cornell University,6910.86
+China,SUSTech,6845.33
+South Africa,University of Cape Town,6848.16
+Egypt,American University in Cairo,6845.03
+Argentina,University of Buenos Aires,6858.48
+Indonesia,University of Indonesia,6867.87
+Saudi Arabia,King Saud University,6871.18
+Nigeria,University of Lagos,6842.24
+Vietnam,HCMUT,6875.13
+Netherlands,TU Eindhoven,6876.67
+Netherlands,University of Twente,6870.73
+Netherlands,University of Groningen,6864.01
+Netherlands,Maastricht University,6875.71
+Netherlands,Radboud University,6858.62
+Netherlands,Tilburg University,6872.14
+Netherlands,Utrecht University,6869.89
+Netherlands,Leiden University,6878.72
+Netherlands,Wageningen University,6862.11
+Netherlands,VU Amsterdam,6874.09
+Singapore,Nanyang Technological University,6899.85
+Singapore,Singapore Management University,6892.0
+Singapore,SUTD,6893.76
+Singapore,SIT,6893.27
+Singapore,NUS,6877.44
+Singapore,NTU,6877.4
+Singapore,SUTD,6877.68
+Singapore,SMU,6877.4
+Singapore,NUS,6889.03
+Singapore,NTU,6890.87
+France,École Polytechnique,6879.72
+France,INSA Toulouse,6859.11
+France,École Normale Supérieure Lyon,6850.68
+France,Grenoble INP,6850.88
+France,Université Nice Sophia Antipolis,6862.41
+France,University of Bordeaux,6852.0
+France,Université de Lille,6857.33
+France,INSA Rennes,6842.28
+France,University of Strasbourg,6861.24
+France,University of Montpellier,6843.98
+Switzerland,EPFL,6892.13
+Switzerland,University of Geneva,6896.63
+Switzerland,University of Bern,6884.91
+Switzerland,University of St. Gallen,6894.04
+Switzerland,USI,6882.01
+Switzerland,University of Fribourg,6888.97
+Switzerland,University of Neuchatel,6881.9
+Switzerland,University of Basel,6887.21
+Switzerland,University of Lucerne,6895.5
+Switzerland,ZHAW,6886.17
