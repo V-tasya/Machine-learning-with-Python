@@ -10,8 +10,7 @@
 
 **In order to run my code on another computer, the following steps are required:**
 
-1. Clone the repository from GitHub (git clone https://github.com/your_username/your_project.git
-cd your_project).
+1. Clone the repository from GitHub (git clone https://github.com/V-tasya/Machine-learning-with-Python.git).
 2. Create a virtual environment (python -m venv venv 
 On Mac or Linux use: source venv/bin/activate  
 On Windows use: venv\Scripts\activate).
