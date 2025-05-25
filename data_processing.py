@@ -4,7 +4,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression, Ridge, Lasso
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.svm import SVR
 from sklearn.metrics import mean_absolute_error, mean_squared_error
@@ -16,7 +16,11 @@ import numpy as np
 numerical_values = ['Duration_Years', 'Living_Cost_Index', 'Rent_USD', 'Visa_Fee_USD', 'Insurance_USD', 'Exchange_Rate']
 categorical_values = ['Country', 'City', 'University', 'Program', 'Level']
 target_attribute = 'Tuition_USD'
-models = {'ln': LinearRegression(), 'dd': DecisionTreeRegressor(random_state=42), 'svr': SVR()}
+models = {'ln': LinearRegression(), 
+          #'dd': DecisionTreeRegressor(random_state=42), 
+          #'svr': SVR(),
+          'r': Ridge(alpha=1.0),   
+          'l': Lasso(alpha=0.1)}
 result = {}
 
 def reader(file):
@@ -84,6 +88,10 @@ def training(columns_without_target, target_variables_column, preprocessing, cou
       print('Model: ', id, ', set: ', name)
       print('Mean average error: ', mean_abs_er)
       print('Rout mean squared error: ', rout_mn_sqrt_er)
+      if hasattr(model, 'coef_'):
+        print("First 16 weights :")
+        coefs = model.coef_
+        print(coefs[:16])
 
 def write_to_csv(file,countries, universities, prediction, enum):
   data_frame = pd.DataFrame({

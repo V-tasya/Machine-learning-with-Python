@@ -1,0 +1,183 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+USA,University of Washington,43653.15,51000
+Sweden,Lund University,-4795.68,0
+Netherlands,TU Eindhoven,15437.27,14800
+Portugal,University of Minho,6651.46,6200
+New Zealand,University of Waikato,36746.98,28500
+USA,Georgia Tech,36219.27,48000
+Sweden,Linköping University,-62.5,0
+Netherlands,Utrecht University,16815.73,13900
+Portugal,University of Aveiro,1020.58,6800
+New Zealand,Massey University,27169.98,27500
+USA,Carnegie Mellon,51506.11,56000
+Sweden,Umeå University,215.16,0
+Netherlands,University of Groningen,10132.29,14200
+Portugal,University of Algarve,6762.95,5900
+New Zealand,AUT University,31776.5,29500
+USA,NC State University,24238.5,47000
+Sweden,Karlstad University,-424.23,0
+Netherlands,Tilburg University,15701.99,14000
+Portugal,UTAD,5369.34,5700
+New Zealand,Lincoln University,29231.74,28000
+USA,UC Davis,47605.96,48000
+Sweden,Linnaeus University,-264.63,0
+Netherlands,Wageningen University,14827.95,14500
+Portugal,University of Madeira,6215.02,5500
+Spain,Universidad Politécnica de Madrid,3563.99,3500
+Italy,Politecnico di Milano,1037.81,4000
+Greece,National Technical University,-7480.69,0
+Austria,TU Wien,-509.27,1500
+Mexico,UNAM,655.79,800
+Spain,Universitat Politècnica Catalunya,2941.48,3800
+Italy,Sapienza University,-2245.1,3500
+Greece,Aristotle University,-637.94,0
+Austria,TU Graz,-365.22,1500
+Mexico,Tecnológico de Monterrey,2975.59,12000
+Spain,Universitat de València,6353.48,3200
+Italy,Politecnico di Torino,1147.34,3800
+Greece,University of Patras,-3664.76,0
+Austria,Johannes Kepler University,21.85,1500
+Mexico,Universidad de Guadalajara,2763.39,900
+Spain,Universidad de Sevilla,1662.07,3000
+Italy,University of Bologna,3297.88,3600
+Greece,University of Crete,888.9,0
+Austria,University of Salzburg,951.03,1500
+Mexico,UDLAP,-2716.5,10000
+Spain,University of the Basque Country,-1437.68,3400
+Italy,University of Florence,10739.45,3500
+Greece,University of Thessaly,948.81,0
+Austria,University of Innsbruck,3641.9,1500
+Mexico,Tecnologico de Monterrey,3908.5,11000
+Spain,University of Granada,3066.79,2800
+Italy,University of Naples,-2001.09,3200
+Greece,University of Ioannina,4877.48,0
+Austria,University of Klagenfurt,3814.42,1500
+Mexico,Universidad Autonoma de Yucatan,-2735.39,3500
+Spain,University of Zaragoza,1550.84,2900
+Italy,University of Pisa,1055.01,3300
+Greece,University of the Aegean,426.94,0
+Austria,Montanuniversität Leoben,-982.15,1500
+Mexico,CETYS Universidad,8079.64,9500
+Spain,University of Salamanca,2123.46,3100
+Italy,University of Padua,2908.53,3400
+Greece,Technical University of Crete,728.36,0
+Austria,FH Vorarlberg,2960.94,1500
+Mexico,UASLP,-941.3,2800
+Turkey,Bogazici University,-3187.08,1500
+Greece,Athens University of Economics,4722.59,0
+Belgium,KU Leuven,4841.05,3800
+Hungary,Budapest University of Technology,15744.68,6500
+Russia,Moscow State University,5287.72,5500
+Turkey,Middle East Technical University,-4494.82,1200
+Greece,University of Macedonia,-3571.68,0
+Belgium,Ghent University,9083.42,3500
+Hungary,University of Debrecen,19442.06,5800
+Russia,ITMO University,5186.57,5000
+Turkey,Ege University,-6711.21,1300
+Greece,University of Patras,-546.68,0
+Belgium,Vrije Universiteit Brussel,7663.14,3600
+Hungary,University of Szeged,11925.34,6000
+Russia,Novosibirsk State University,5259.95,4800
+Turkey,Anadolu University,2044.22,1000
+Greece,University of Crete,2303.72,0
+Belgium,University of Antwerp,4744.85,3700
+Hungary,University of Pecs,19258.16,5500
+Russia,Kazan Federal University,6286.94,4500
+Turkey,Uludag University,-2047.93,1100
+Greece,University of Thessaly,4283.51,0
+Belgium,UCLouvain,6704.8,3500
+Hungary,Szechenyi Istvan University,14728.87,5200
+Russia,Tomsk State University,1952.52,4600
+Turkey,Akdeniz University,-2652.81,1400
+Greece,University of Piraeus,5832.27,0
+Belgium,Hasselt University,9060.23,3400
+Hungary,University of Miskolc,14974.14,5300
+Russia,Ural Federal University,-1118.47,4700
+Turkey,Erciyes University,-1999.08,1200
+Greece,Democritus University,3473.19,0
+Belgium,University of Liege,8557.5,3600
+Hungary,University of Pannonia,16411.59,5100
+Russia,Samara State University,2219.36,4400
+Turkey,Selcuk University,2408.24,1000
+Greece,University of the Aegean,1058.97,0
+Belgium,University of Mons,7819.13,3500
+Hungary,John von Neumann University,13482.4,5400
+Russia,Southern Federal University,11281.52,4200
+Brazil,University of Sao Paulo,-870.13,0
+India,Indian Institute of Science,1142.63,2000
+Thailand,Chulalongkorn University,-584.9,15000
+Egypt,Cairo University,20423.73,2500
+Singapore,National University of Singapore,31959.93,42000
+UAE,University of Dubai,25446.93,25000
+Brazil,PUC-Rio,-4993.64,8000
+India,IIT Bombay,140.63,1800
+Thailand,Chiang Mai University,7337.44,12000
+Singapore,Nanyang Technological University,21512.0,40000
+UAE,Khalifa University,17065.82,27000
+Brazil,UNICAMP,-2244.57,0
+India,IIT Delhi,-2186.84,1900
+Thailand,Khon Kaen University,4783.22,11000
+Egypt,Alexandria University,17729.12,2200
+Singapore,Singapore Management University,30938.78,38000
+UAE,American University of Sharjah,13982.29,26000
+Brazil,UFRGS,7053.65,0
+India,IIT Madras,2090.66,1700
+Thailand,Prince of Songkla University,-1777.72,10000
+Egypt,Ain Shams University,17166.65,2400
+Singapore,Singapore University of Technology,26183.31,39000
+UAE,Ajman University,22492.5,23000
+Brazil,UFPE,-2043.69,0
+India,IIT Hyderabad,-716.7,1800
+Thailand,Prince of Songkla University,3837.27,9500
+Egypt,Port Said University,17789.9,2100
+Singapore,SUTD,20053.93,37000
+UAE,UAE University,22176.29,24000
+Brazil,UFSC,-21.67,0
+India,IIT Pune,2320.24,1600
+Thailand,Suranaree University,-2515.23,9000
+Egypt,Mansoura University,22058.51,2000
+Singapore,SIM Global Education,29386.32,35000
+UAE,RAK University,17018.78,22000
+Brazil,UFBA,3451.43,0
+India,IIT Kanpur,-1680.96,1900
+Thailand,Thaksin University,2540.0,8500
+Egypt,Aswan University,19468.88,1900
+UAE,Fujairah University,27409.4,21000
+Iceland,University of Iceland,13253.68,0
+Colombia,Universidad Nacional,14450.41,3500
+Poland,University of Warsaw,2547.82,3000
+Romania,University Politehnica,15868.97,2500
+Luxembourg,University of Luxembourg,15336.91,400
+Indonesia,University of Indonesia,-323.89,5000
+Iceland,University of Akureyri,13887.62,0
+Colombia,Universidad de Antioquia,10349.08,4000
+Poland,Jagiellonian University,6342.31,2800
+Romania,Babes-Bolyai University,21435.88,2200
+Luxembourg,Luxembourg School of Business,12249.08,400
+Indonesia,Institut Teknologi Bandung,-6030.58,4500
+Iceland,Reykjavik University,11795.61,0
+Colombia,Universidad del Valle,23815.05,3200
+Poland,Wroclaw University of Technology,3690.96,2600
+Romania,Politehnica University,13358.99,2400
+Luxembourg,Luxembourg Institute of Science,14020.8,400
+Indonesia,Gadjah Mada University,3702.57,4000
+Iceland,Iceland University of Arts,12511.14,0
+Colombia,Universidad del Norte,13522.83,3800
+Poland,Adam Mickiewicz University,-954.32,2700
+Romania,Alexandru Ioan Cuza University,17774.47,2100
+Luxembourg,Sacred Heart University,16252.15,400
+Indonesia,Institut Teknologi Sepuluh,3830.65,3800
+Iceland,Bifrost University,12063.42,0
+Colombia,UIS,14367.25,3500
+Poland,Gdansk University of Technology,11292.82,2500
+Romania,Transilvania University,20519.09,2000
+Luxembourg,Miami University Dolibois,19730.6,400
+Indonesia,Brawijaya University,218.56,3500
+Poland,Lodz University of Technology,3468.74,2400
+Romania,Ovidius University,19370.48,1900
+Luxembourg,European Business University,14216.76,400
+Indonesia,Diponegoro University,-4317.1,3200
+Iceland,Agricultural University,12418.27,0
+Colombia,Universidad de Cartagena,15052.08,3300
+Poland,University of Silesia,1764.57,2300
+Romania,University of Craiova,16682.28,2200

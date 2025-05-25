@@ -1,0 +1,544 @@
+Country,University,Predicted_Tuition_USD,Tuition_USD
+USA,Harvard University,55345.61,55400
+UK,Imperial College London,39878.1,41200
+Canada,University of Toronto,41820.01,38500
+Australia,University of Melbourne,44232.75,42000
+Germany,Technical University of Munich,549.99,500
+Japan,University of Tokyo,8900.03,8900
+Netherlands,University of Amsterdam,16579.98,15800
+Singapore,National University of Singapore,34951.54,35000
+France,Sorbonne University,4445.66,4500
+Switzerland,ETH Zurich,3901.86,1460
+Sweden,KTH Royal Institute,54.28,0
+Denmark,University of Copenhagen,216.85,0
+China,Tsinghua University,6965.65,8900
+South Korea,Seoul National University,7254.23,7200
+Ireland,Trinity College Dublin,25360.08,28900
+South Korea,Pusan National University,6816.73,5900
+New Zealand,University of Auckland,28608.62,28500
+Austria,University of Vienna,1549.3,1500
+Belgium,KU Leuven,3549.43,3500
+USA,University of Michigan,53115.33,52300
+USA,Georgia Tech,43691.62,43800
+USA,UT Austin,40954.19,40900
+UK,University of Bristol,33439.78,31200
+Canada,University of Ottawa,28954.3,28900
+Hong Kong,HKUST,21994.12,22000
+Portugal,University of Lisbon,3502.02,3500
+Israel,Tel Aviv University,12051.13,12000
+Taiwan,National Taiwan University,5252.24,5200
+Czech Republic,Charles University,9850.12,9800
+USA,Stanford University,53435.17,54200
+USA,MIT,54003.96,53800
+UK,University of Oxford,29804.65,29800
+UK,University of Cambridge,32072.18,31200
+Germany,Heidelberg University,445.71,500
+Switzerland,ETH Basel,1445.71,1500
+Netherlands,TU Delft,8051.2,4800
+Singapore,NTU Singapore,8954.28,8900
+Canada,University of Waterloo,21554.32,21500
+Australia,Australian National University,29854.2,29800
+Sweden,Lund University,-54.29,0
+USA,UC San Diego,49213.09,44200
+USA,University of Washington,43519.42,38900
+Canada,University of Alberta,24629.26,22800
+UK,University of Glasgow,29031.96,33500
+India,Indian Institute of Science,2551.09,2500
+Denmark,Aalborg University,4286.82,0
+Poland,University of Warsaw,3851.63,3800
+Ireland,NUI Galway,22559.72,25800
+South Korea,KAIST,6791.4,6900
+Malaysia,University of Malaya,4851.28,4800
+USA,UC Berkeley,47786.39,44900
+UK,University of Manchester,34896.87,32000
+Canada,University of British Columbia,31254.3,31200
+Australia,University of Sydney,34137.35,35000
+Germany,Free University of Berlin,53.26,0
+Spain,University of Barcelona,2852.04,2800
+Italy,Politecnico di Milano,4251.03,4200
+Netherlands,Erasmus University,11991.15,11200
+Finland,University of Helsinki,-597.57,0
+Norway,University of Oslo,3437.21,0
+Japan,Osaka University,6854.11,6800
+Japan,Kyoto University,8445.61,8500
+Japan,Nagoya University,7854.23,7800
+Japan,Tohoku University,8145.64,8200
+Japan,Kyushu University,7445.65,7500
+Japan,Hokkaido University,8119.2,8100
+Japan,Tokyo Institute of Technology,8845.67,8900
+Japan,University of Tsukuba,7254.1,7200
+Japan,Kobe University,7845.61,7900
+Japan,Kanazawa University,7154.08,7100
+Japan,Hiroshima University,7654.02,7600
+Australia,University of Adelaide,35010.21,32800
+Australia,University of Western Australia,35511.49,34500
+Australia,Griffith University,35366.95,31200
+Australia,University of Tasmania,35471.68,30800
+Australia,University of Newcastle,34300.88,31500
+Australia,University of Wollongong,33786.76,32900
+Australia,Charles Darwin University,29853.91,29800
+Australia,James Cook University,33631.49,31200
+Australia,USC,29554.18,29500
+Australia,University of New England,30608.5,30500
+Germany,TU Dresden,415.7,500
+Germany,University of Stuttgart,-2745.15,450
+Germany,TU Hamburg,595.07,500
+Germany,RWTH Aachen,-700.37,500
+Germany,KIT,602.63,500
+Germany,TU Darmstadt,568.22,450
+Germany,TU Braunschweig,445.68,500
+Germany,University of Jena,558.21,450
+Germany,Leibniz University,445.63,500
+Germany,University of Freiburg,445.67,500
+USA,University of Pennsylvania,51161.88,51900
+USA,University of Chicago,54713.87,52400
+USA,Johns Hopkins,53545.67,53600
+USA,Vanderbilt University,50745.69,50800
+USA,Duke University,51445.64,51500
+USA,University of Wisconsin,38199.55,38200
+USA,Arizona State University,36816.35,41200
+USA,University of Colorado,39853.97,39800
+USA,University of Minnesota,48874.15,42500
+USA,UC Davis,42853.97,42800
+UK,University College London,36090.26,39200
+UK,University of Leeds,31777.6,28500
+UK,University of Warwick,33486.12,36800
+UK,University of Sheffield,22344.09,27900
+UK,University of Birmingham,31763.89,29500
+UK,University of Southampton,32291.46,32400
+UK,University of Nottingham,31849.27,28900
+UK,Cardiff University,31037.23,31200
+UK,Queen's University Belfast,27445.65,27500
+UK,Newcastle University,27802.39,30800
+Canada,McMaster University,31261.56,32500
+Canada,Western University,29746.53,29800
+Canada,Dalhousie University,30308.86,28500
+Canada,University of Victoria,29273.72,27900
+Canada,Laval University,26224.21,21500
+Canada,University of Manitoba,29091.82,26800
+Canada,University of Regina,25662.88,25500
+Canada,Memorial University,22242.22,19800
+Canada,University of Saskatchewan,25101.68,24500
+Canada,Université de Sherbrooke,20445.7,20500
+USA,Carnegie Mellon,51801.65,51200
+USA,UIUC,45745.66,45800
+Canada,University of Calgary,29828.41,26500
+Brazil,University of Sao Paulo,49.4,0
+Turkey,Bogazici University,1852.38,1800
+Russia,Moscow State University,3951.57,3900
+Mexico,UNAM,851.3,800
+Greece,National Technical University,2551.11,2500
+Thailand,Chulalongkorn University,3852.37,3800
+UAE,American University in Dubai,29445.64,29500
+USA,Columbia University,56488.0,52800
+USA,Cornell University,49745.65,49800
+China,SUSTech,8145.62,8200
+South Africa,University of Cape Town,5951.82,5900
+Egypt,American University in Cairo,19850.41,19800
+Argentina,University of Buenos Aires,48.51,0
+Indonesia,University of Indonesia,4251.03,4200
+Saudi Arabia,King Saud University,7851.7,7800
+Nigeria,University of Lagos,2551.54,2500
+Vietnam,HCMUT,3145.67,3200
+Netherlands,TU Eindhoven,15545.61,15600
+Netherlands,University of Twente,11254.04,11200
+Netherlands,University of Groningen,14745.64,14800
+Netherlands,Maastricht University,11554.08,11500
+Netherlands,Radboud University,14445.68,14500
+Netherlands,Tilburg University,11354.09,11300
+Netherlands,Utrecht University,15145.66,15200
+Netherlands,Leiden University,11410.96,11400
+Netherlands,Wageningen University,14845.68,14900
+Netherlands,VU Amsterdam,15454.3,15400
+Singapore,Nanyang Technological University,32493.06,32500
+Singapore,Singapore Management University,31854.16,31800
+Singapore,SUTD,31254.25,31200
+Singapore,SIT,29854.27,29800
+Singapore,NUS,40063.23,35600
+Singapore,NTU,34899.66,34900
+Singapore,SUTD,33745.68,33800
+Singapore,SMU,34145.62,34200
+Singapore,NUS,33982.36,38500
+Singapore,NTU,37845.68,37900
+France,École Polytechnique,15545.66,15600
+France,INSA Toulouse,4199.88,4200
+France,École Normale Supérieure Lyon,4799.59,4800
+France,Grenoble INP,2410.4,4500
+France,Université Nice Sophia Antipolis,3845.69,3900
+France,University of Bordeaux,3716.62,4200
+France,Université de Lille,3854.28,3800
+France,INSA Rennes,4554.08,4500
+France,University of Strasbourg,3845.66,3900
+France,University of Montpellier,4045.48,4100
+Switzerland,EPFL,6550.41,1460
+Switzerland,University of Geneva,4347.4,1380
+Switzerland,University of Bern,2534.34,1420
+Switzerland,University of St. Gallen,1494.19,1440
+Switzerland,USI,1514.22,1460
+Switzerland,University of Fribourg,3147.34,1380
+Switzerland,University of Neuchatel,1473.97,1420
+Switzerland,University of Basel,1494.16,1440
+Switzerland,University of Lucerne,1433.95,1380
+Switzerland,ZHAW,1473.52,1460
+Denmark,University of Copenhagen,8345.76,8800
+Denmark,Aarhus University,6550.19,8600
+Denmark,Aalborg University,4004.31,8400
+China,Tsinghua University,10779.89,8900
+China,Peking University,8554.22,8500
+China,Fudan University,7755.21,7800
+China,Shanghai Jiao Tong University,8190.08,8200
+China,Zhejiang University,7445.67,7500
+China,Nanjing University,7254.05,7200
+China,Sun Yat-sen University,6954.01,6900
+China,Wuhan University,6554.23,6500
+China,Xi'an Jiaotong University,6354.22,6300
+China,Sichuan University,6045.62,6100
+South Korea,Seoul National University,7091.2,7200
+South Korea,Korea University,7053.36,7000
+South Korea,Yonsei University,6954.28,6900
+South Korea,Hanyang University,6445.64,6500
+South Korea,Sungkyunkwan University,6345.62,6400
+South Korea,KAIST,6854.27,6800
+South Korea,Chungnam National University,5903.59,5900
+South Korea,Pusan National University,4937.38,5800
+South Korea,Dong-A University,5599.17,5600
+South Korea,Kyungpook National University,5554.21,5500
+South Korea,Yeungnam University,5345.67,5400
+South Korea,Chonnam National University,5354.21,5300
+South Korea,Chosun University,5199.52,5200
+South Korea,Ulsan National Institute of Science and Technology,6099.47,6100
+South Korea,University of Ulsan,5045.71,5100
+South Korea,POSTECH,6245.61,6300
+South Korea,Incheon National University,5054.04,5000
+South Korea,Sungkyunkwan University (Suwon),5845.62,5900
+South Korea,Hanbat National University,4954.2,4900
+South Korea,Chungbuk National University,4853.85,4800
+USA,Stanford University,56923.17,57000
+USA,MIT,55907.27,55800
+USA,Yale University,54445.69,54500
+USA,Princeton University,53945.64,54000
+USA,University of Pennsylvania,54183.72,53500
+USA,UCLA,48715.83,43000
+USA,UC Berkeley,47476.42,43500
+USA,University of Michigan,51130.33,52000
+USA,University of Texas Austin,40554.28,40500
+USA,University of Washington,47165.49,39800
+USA,University of Wisconsin-Madison,37554.28,37500
+USA,University of Illinois Urbana-Champaign,36854.19,36800
+USA,Georgia Tech,39363.36,33500
+USA,Ohio State University,32853.99,32800
+USA,Purdue University,31554.22,31500
+USA,University of Florida,28554.03,28500
+USA,Arizona State University,32437.69,28000
+USA,NC State University,27554.1,27500
+USA,Texas A&M University,27053.99,27000
+USA,Oregon State University,26554.0,26500
+UK,University of Cambridge,37573.43,38500
+UK,University of Oxford,41495.89,37900
+UK,Imperial College London,40797.5,37500
+UK,University College London,39855.3,36800
+UK,King's College London,38765.11,35500
+UK,University of Edinburgh,37091.56,32500
+UK,University of Manchester,29645.76,31800
+UK,University of Bristol,30766.64,31500
+UK,University of Warwick,34459.53,31200
+UK,University of Glasgow,37956.21,30800
+UK,University of Birmingham,34028.42,30500
+UK,University of Leeds,32336.84,30200
+UK,University of Sheffield,31143.65,29800
+UK,University of Nottingham,32263.06,29500
+UK,University of Southampton,29254.16,29200
+UK,Durham University,28942.49,28900
+UK,University of Liverpool,28545.66,28600
+UK,Cardiff University,32277.71,28300
+UK,Newcastle University,30943.16,28000
+UK,University of Aberdeen,27753.99,27700
+UK,University of Leicester,27345.66,27400
+UK,University of Reading,27045.67,27100
+UK,University of Sussex,26745.68,26800
+UK,University of Essex,26445.66,26500
+UK,University of Bath,26145.65,26200
+UK,University of Surrey,25845.68,25900
+UK,University of Exeter,25579.37,25600
+UK,University of Kent,25354.06,25300
+UK,University of Dundee,25054.02,25000
+UK,University of Strathclyde,24754.17,24700
+UK,Heriot-Watt University,24454.27,24400
+UK,Loughborough University,24154.06,24100
+UK,Brunel University London,23853.99,23800
+UK,Queen Mary University of London,23554.1,23500
+UK,Royal Holloway University,23254.1,23200
+UK,Lancaster University,22954.05,22900
+UK,Swansea University,22654.18,22600
+UK,Aston University,22353.98,22300
+UK,University of Hull,22054.06,22000
+UK,Keele University,21754.06,21700
+UK,University of Plymouth,21454.08,21400
+UK,University of Portsmouth,21154.08,21100
+UK,Ulster University,20854.19,20800
+UK,Northumbria University,20554.08,20500
+UK,Coventry University,20254.0,20200
+UK,Oxford Brookes University,19954.09,19900
+UK,De Montfort University,19654.0,19600
+UK,University of Westminster,19354.22,19300
+UK,University of Greenwich,19054.05,19000
+UK,Kingston University,18754.24,18700
+Canada,University of Toronto,38533.78,45200
+Canada,University of Toronto,34483.79,28500
+Canada,University of British Columbia,39620.54,43800
+Canada,University of British Columbia,35570.55,27900
+Canada,McGill University,40005.37,41500
+Canada,McGill University,35955.38,26800
+Canada,University of Waterloo,35520.67,40900
+Canada,University of Waterloo,31470.68,26200
+Canada,University of Montreal,34674.53,39500
+Canada,University of Montreal,30624.54,25800
+Canada,University of Alberta,34560.34,38200
+Canada,University of Alberta,30510.35,24900
+Canada,University of Ottawa,37170.29,37800
+Canada,University of Ottawa,33120.3,24500
+Canada,University of Calgary,31461.82,37200
+Canada,University of Calgary,27411.83,24100
+Canada,McMaster University,32766.98,36500
+Canada,McMaster University,28716.99,23800
+Canada,Western University,31778.84,35900
+Canada,Western University,27728.85,23500
+Canada,Queen's University,31297.77,35400
+Canada,Queen's University,27247.78,23200
+Canada,University of Victoria,32429.36,34800
+Canada,University of Victoria,28379.36,22900
+Canada,Dalhousie University,31585.33,34200
+Canada,Dalhousie University,27535.34,22600
+Canada,University of Manitoba,30783.35,33600
+Canada,University of Manitoba,26733.36,22300
+Canada,Laval University,31888.97,33000
+Canada,Laval University,27838.98,22000
+Canada,University of Saskatchewan,28746.93,32400
+Canada,University of Saskatchewan,24696.94,21700
+Canada,Memorial University,27430.81,31800
+Canada,Memorial University,23380.82,21400
+Canada,University of Regina,28120.43,31200
+Canada,University of Regina,24070.44,21100
+Canada,University of Sherbrooke,27752.11,30600
+Canada,University of Sherbrooke,23702.11,20800
+Canada,University of Windsor,27302.06,30000
+Canada,University of Windsor,23252.07,20500
+Canada,University of New Brunswick,26851.9,29400
+Canada,University of New Brunswick,22801.91,20200
+Canada,UQTR,26402.02,28800
+Canada,UQTR,22352.03,19900
+Canada,Lakehead University,25952.01,28200
+Canada,Lakehead University,21902.02,19600
+Canada,Laurentian University,25502.01,27600
+Canada,Laurentian University,21452.01,19300
+Canada,UNBC,25051.92,27000
+Canada,UNBC,21001.93,19000
+Australia,University of Melbourne,39717.88,42500
+Australia,University of Melbourne,40073.28,45800
+Australia,University of Melbourne,35698.52,35000
+Australia,University of Sydney,40716.69,41800
+Australia,University of Sydney,41072.08,44900
+Australia,University of Sydney,36697.33,34500
+Australia,Australian National University,40421.3,41200
+Australia,Australian National University,40776.69,44200
+Australia,Australian National University,36401.94,34000
+Australia,University of Queensland,37614.42,40500
+Australia,University of Queensland,37969.81,43500
+Australia,University of Queensland,33595.05,33500
+Australia,University of New South Wales,40069.85,40200
+Australia,University of New South Wales,40425.24,43200
+Australia,University of New South Wales,36050.49,33200
+Australia,Monash University,39669.83,39800
+Australia,Monash University,40025.22,42800
+Australia,Monash University,35650.47,32800
+Australia,University of Adelaide,36739.24,39200
+Australia,University of Adelaide,37094.64,42200
+Australia,University of Adelaide,32719.88,32200
+Australia,University of Western Australia,37030.57,38800
+Australia,University of Western Australia,37385.97,41800
+Australia,University of Western Australia,33011.21,31800
+Australia,Queensland University of Technology,38069.83,38200
+Australia,Queensland University of Technology,38425.22,41200
+Australia,Queensland University of Technology,34050.46,31200
+Australia,University of Technology Sydney,37706.06,37800
+Australia,University of Technology Sydney,38061.46,40800
+Australia,University of Technology Sydney,33686.7,30800
+Australia,RMIT University,37106.03,37200
+Australia,RMIT University,37461.42,40200
+Australia,RMIT University,33086.66,30200
+Australia,University of Wollongong,34679.72,36800
+Australia,University of Wollongong,35035.11,39800
+Australia,University of Wollongong,30660.35,29800
+Australia,University of Newcastle,32960.66,36200
+Australia,University of Newcastle,33316.05,39200
+Australia,University of Newcastle,28941.29,29200
+Australia,University of Tasmania,32766.9,35800
+Australia,University of Tasmania,33122.29,38800
+Australia,University of Tasmania,28747.53,28800
+Australia,Griffith University,31742.11,35200
+Australia,Griffith University,32097.5,38200
+Australia,Griffith University,27722.74,28200
+Australia,University of Canberra,34687.27,34800
+Australia,University of Canberra,35042.66,37800
+Australia,University of Canberra,30667.9,27800
+Australia,James Cook University,33259.3,34200
+Australia,James Cook University,33614.7,37200
+Australia,James Cook University,29239.94,27200
+Australia,University of New England,33633.66,33800
+Australia,University of New England,33989.05,36800
+Australia,University of New England,29614.3,26800
+Australia,University of Southern Queensland,33069.86,33200
+Australia,University of Southern Queensland,33425.25,36200
+Australia,University of Southern Queensland,29050.5,26200
+Australia,Federation University,32669.83,32800
+Australia,Federation University,33025.22,35800
+Australia,Federation University,28650.46,25800
+Australia,Southern Cross University,32069.83,32200
+Australia,Southern Cross University,32425.22,35200
+Australia,Southern Cross University,28050.46,25200
+USA,MIT,57686.18,58000
+UK,Imperial College London,39969.9,42000
+Germany,TU Munich,54.22,0
+Canada,University of Toronto,42308.03,45000
+Australia,University of Melbourne,34523.07,29000
+USA,Stanford University,52787.21,52000
+UK,University of Edinburgh,33462.62,38000
+Germany,Humboldt University,-54.35,0
+Canada,University of British Columbia,38400.13,42000
+Australia,University of Sydney,34522.1,31000
+USA,UC Berkeley,47190.53,54000
+UK,University of Manchester,34256.49,35000
+Germany,University of Hamburg,-0.54,0
+Canada,McGill University,30284.77,38000
+Australia,University of Queensland,40318.66,32000
+USA,Columbia University,58257.55,62000
+UK,University of Oxford,36345.09,40000
+Germany,TU Dresden,-158.49,0
+Canada,University of Ottawa,31900.68,40000
+Australia,University of Western Australia,33906.31,30000
+USA,Georgia Tech,42298.44,48000
+UK,University of Bristol,34492.37,36000
+Germany,Goethe University,54.0,0
+Canada,University of Calgary,34043.45,35000
+Australia,University of Adelaide,32781.47,28000
+USA,UCLA,46299.86,52000
+UK,University of Glasgow,31257.36,34000
+Germany,University of Stuttgart,4118.99,0
+Canada,University of Alberta,33145.51,37000
+Australia,Australian National University,34691.26,33000
+USA,UT Austin,49867.4,45000
+UK,University of Leeds,29584.68,35000
+Germany,Heidelberg University,-0.19,0
+Canada,Dalhousie University,31815.88,36000
+Australia,Griffith University,34923.71,29000
+USA,University of Washington,44578.19,50000
+UK,University of Sheffield,37157.89,33000
+Germany,University of Cologne,53.97,0
+Canada,Laval University,24493.27,34000
+Australia,University of Newcastle,33635.21,27000
+USA,Carnegie Mellon,55343.89,56000
+UK,University of Nottingham,28233.28,34000
+Germany,University of Bonn,53.98,0
+Canada,University of Victoria,30463.14,35000
+Australia,University of Tasmania,30059.43,26000
+USA,UC San Diego,47481.14,49000
+UK,Durham University,34956.72,35000
+Germany,RWTH Aachen,1091.65,0
+Canada,University of Manitoba,29036.97,33000
+Australia,University of Wollongong,33083.66,28000
+USA,UC Berkeley Extension,51945.63,52000
+UK,King's College London,35680.45,39000
+Switzerland,ETH Zurich,-996.35,1500
+France,Sorbonne University,4608.42,4500
+Ireland,Trinity College Dublin,22385.5,18900
+USA,University of Chicago,55631.69,58000
+UK,Anglia Ruskin University,34945.64,35000
+Switzerland,EPFL,-3644.84,1500
+France,University of Lyon,4254.24,4200
+Ireland,University College Cork,16745.61,16800
+USA,Northeastern University,53348.37,54000
+UK,Heriot-Watt University,36891.29,37000
+Switzerland,University of Geneva,-1413.6,1500
+France,University of Toulouse,3945.68,4000
+Ireland,NUI Galway,19085.84,15900
+USA,University of Washington,44490.45,51000
+UK,University of Birmingham,30153.22,36000
+Switzerland,University of Basel,1500.04,1500
+France,University of Bordeaux,4801.16,4300
+Ireland,University of Limerick,15454.06,15400
+USA,UT Austin,47112.01,49000
+UK,University of Salford,34945.65,35000
+Switzerland,University of St. Gallen,1391.45,1500
+France,University of Nice,4123.95,4100
+Ireland,Maynooth University,14845.67,14900
+USA,University of Denver,46974.93,47000
+UK,Leeds Beckett University,33945.65,34000
+Switzerland,University of Bern,439.32,1500
+France,University of Lille,4145.67,4200
+Ireland,Waterford IT,14554.19,14500
+USA,Portland State University,45054.07,45000
+UK,UWE Bristol,32945.61,33000
+Switzerland,USI Lugano,1445.61,1500
+France,University of Strasbourg,3999.9,4000
+Ireland,IT Sligo,14054.18,14000
+USA,University of Minnesota,41571.49,48000
+UK,Cardiff University,30130.52,34000
+Switzerland,University of Fribourg,-321.76,1500
+France,Grenoble INP,6243.36,4100
+Ireland,Athlone IT,13853.96,13800
+Norway,University of Oslo,-3383.36,0
+Finland,University of Helsinki,651.36,0
+Germany,Technical University Berlin,54.22,0
+Denmark,University of Copenhagen,237.38,0
+Norway,NTNU,-54.38,0
+Finland,Aalto University,-54.36,0
+Germany,LMU Munich,-50.55,0
+Denmark,Aarhus University,1994.83,0
+Norway,University of Bergen,53.97,0
+Finland,Tampere University,54.17,0
+Germany,TU Dresden,202.48,0
+Denmark,University of Southern Denmark,54.04,0
+Norway,UiT Arctic University,-54.29,0
+Finland,University of Turku,-54.32,0
+Germany,TU Hamburg,-149.74,0
+Denmark,Aalborg University,54.27,0
+Norway,University of Stavanger,54.03,0
+Finland,University of Oulu,-54.32,0
+Germany,University of Stuttgart,-869.9,0
+Denmark,Roskilde University,54.09,0
+Norway,Norwegian University of Life Sciences,26.33,0
+Finland,University of Vaasa,-41.43,0
+Germany,KIT,-54.29,0
+Denmark,Technical University of Denmark,53.92,0
+Norway,Nord University,-54.33,0
+Finland,University of Jyväskylä,54.04,0
+Germany,TU Darmstadt,-172.74,0
+Denmark,University of Southern Denmark,-54.51,0
+Norway,NTNU Gjøvik,0.02,0
+Finland,LUT University,54.03,0
+Germany,University of Bremen,-54.38,0
+Denmark,University of Southern Denmark,-3.12,0
+Norway,University of Agder,-54.28,0
+Finland,University of Eastern Finland,54.07,0
+Germany,RWTH Aachen,54.27,0
+Denmark,University of Copenhagen,-54.5,0
+Norway,University of South-Eastern Norway,53.91,0
+Finland,University of Eastern Finland,-54.3,0
+Germany,University of Jena,-54.33,0
+Denmark,Aarhus University,53.91,0
+New Zealand,University of Auckland,31836.98,32000
+USA,Northeastern University,54705.75,54000
+Sweden,KTH Royal Institute,-54.36,0
+Netherlands,University of Amsterdam,14165.62,15000
+Portugal,University of Lisbon,6943.56,7000
+New Zealand,Victoria University,30054.19,30000
+USA,UT Austin,44911.85,48000
+Sweden,Uppsala University,54.2,0
+Netherlands,Erasmus University,13762.79,14500
+Portugal,University of Porto,6544.34,6500
+New Zealand,University of Canterbury,30945.67,31000
+USA,UC San Diego,45451.3,49000
+Sweden,Chalmers University,42.73,0
+Netherlands,TU Delft,12302.49,15500
+Portugal,University of Coimbra,6054.0,6000
+New Zealand,University of Otago,28985.82,29000

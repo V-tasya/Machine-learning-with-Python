@@ -63,6 +63,41 @@ def calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32, pl
 
   return prediction, train_cost, test_costs
 
+def calulations_with_regularization(bias, culmn,learning_rate=0.01,n_iters=1000,batch_size=32,test_bias=None,test_column=None,reg_type=None,lambda_=0.01):
+  print(reg_type)
+  m, n = bias.shape
+  θ = np.zeros((n, 1))
+
+  for i in range(n_iters):
+    indices = np.arange(m)
+    np.random.shuffle(indices)
+    bias_shuffled = bias[indices]
+    culmn_shuffled = culmn[indices]
+
+    for start in range(0, m, batch_size):
+      end = start + batch_size
+      bias_batch = bias_shuffled[start:end]
+      culmn_batch = culmn_shuffled[start:end]
+
+      prediction_batch = bias_batch @ θ
+      error = prediction_batch - culmn_batch
+      gradient = (bias_batch.T @ error) / len(culmn_batch)
+
+      if reg_type == 'l2':
+        reg_term = lambda_ * np.vstack([np.zeros((1, 1)), θ[1:]])
+        gradient += reg_term
+      elif reg_type == 'l1':
+        reg_term = lambda_ * np.vstack([np.zeros((1, 1)), np.sign(θ[1:])])
+        gradient += reg_term
+
+    θ -= learning_rate * gradient
+
+    prediction = bias @ θ
+    prediction = np.round(prediction, 2)
+
+    return prediction, θ
+
+
 def train_val_test_sets(data_frame):
   train, temp = train_test_split(data_frame, test_size=0.2, random_state=42, shuffle=False)
   validation, test = train_test_split(temp, test_size=0.25, random_state=42, shuffle=False)
