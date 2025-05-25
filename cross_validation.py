@@ -40,7 +40,7 @@ class Validator:
       train_bias, train_column = self.analizzer(train_columns_without_target, train_target_column)
       test_bias, test_column = self.analizzer(test_columns_without_target, test_target_column)
 
-      training_prediction = self.calculations(train_bias, train_column, self.rate, self.iterations, self.batch_size)
+      training_prediction, _, _ = self.calculations(train_bias, train_column, self.rate, self.iterations, self.batch_size, True, test_bias, test_column)
       θ = np.linalg.pinv(train_bias) @ train_column
       testing_prediction = test_bias @ θ
       testing_prediction = np.round(testing_prediction, 2)

@@ -5,6 +5,7 @@ from sklearn.model_selection import train_test_split
 from scipy import sparse
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import math
+import matplotlib.pyplot as plt
 
 numerical_values = ['Duration_Years', 'Living_Cost_Index', 'Rent_USD', 'Visa_Fee_USD', 'Insurance_USD', 'Exchange_Rate']
 categorical_values = ['Country', 'City', 'University', 'Program', 'Level']
@@ -25,9 +26,11 @@ def matrix_analizer(columns, processor, column):
 def mean_squared_error_cost(real_value, prediction):
   return np.sum(pow((prediction - real_value), 2)) / (2 * len(real_value))
 
-def calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32):
+def calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32, plot_cost = False, test_bias = None, test_column = None):
   m, n = bias.shape
   θ = np.zeros((n, 1))
+  train_costs = []
+  test_costs = []
 
   for i in range(n_iters):
     indices = np.arange(m)
@@ -48,13 +51,34 @@ def calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32):
     prediction = bias @ θ
     prediction = np.round(prediction, 2)
 
-    return prediction
+    train_cost = mean_squared_error_cost(culmn, prediction)
+    train_costs.append(train_cost) 
+    if test_bias is not None and test_column is not None:
+      pred = test_bias @ θ
+      test_cost = mean_squared_error_cost(test_column, pred)
+      test_costs.append(test_cost)
+
+  if plot_cost:
+    create_plot(train_costs, test_costs)
+
+  return prediction, train_cost, test_costs
 
 def train_val_test_sets(data_frame):
   train, temp = train_test_split(data_frame, test_size=0.2, random_state=42, shuffle=False)
   validation, test = train_test_split(temp, test_size=0.25, random_state=42, shuffle=False)
   return [('train', train), ('val', validation), ('test', test)]
 
+def create_plot(train_costs, test_costs):
+  plt.figure(figsize=(10, 6))
+  plt.plot(train_costs, label='Training Cost', color='blue')
+  plt.plot(test_costs, label='Test Cost', color='red')
+  plt.xlabel('Epochs')
+  plt.ylabel('Cost')
+  plt.title('Cost functions on training and test subsets')
+  plt.legend()
+  plt.grid(True)
+  plt.show()
+  
 def main():
   file = r'C:\Users\37529\PythonProjects\Project2\International_Education_Costs.csv'
   data_frame = reader(file)
@@ -67,7 +91,7 @@ def main():
     targ = en[target_attribute]
 
     bias, culmn = matrix_analizer(col, processor, targ)
-    prediction = calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32)
+    prediction, _, _ = calulations(bias, culmn, learning_rate=0.01, n_iters=1000, batch_size=32)
     output_file = f'my_ln_grad_{name}'
     write_to_csv(output_file, en['Country'], en['University'], prediction, targ)
 

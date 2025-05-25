@@ -8,6 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.svm import SVR
 from sklearn.metrics import mean_absolute_error, mean_squared_error
+from sklearn.preprocessing import PolynomialFeatures
 import math
 import csv
 import numpy as np
@@ -38,7 +39,9 @@ def analizer(data_frame):
   columns_without_target = data_frame.drop(columns=[target_attribute])
   target_variables_column = data_frame[target_attribute]
 
-  num_transformer = Pipeline(steps=[('imputer', SimpleImputer(strategy='mean')), ('scaler', StandardScaler())])
+  num_transformer = Pipeline(steps=[('imputer', SimpleImputer(strategy='mean')),
+                                    #('poly', PolynomialFeatures(degree=2, include_bias=False)),
+                                    ('scaler', StandardScaler())])
   cat_transformer = Pipeline(steps=[('imputer', SimpleImputer(strategy='most_frequent')), ('encoder', OneHotEncoder(handle_unknown='ignore'))])
   common_transformer = ColumnTransformer(transformers=[('num', num_transformer, numerical_values), ('cat', cat_transformer, categorical_values)])
 
