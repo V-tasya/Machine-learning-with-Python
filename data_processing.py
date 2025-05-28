@@ -21,7 +21,7 @@ models = {'ln': LinearRegression(),
           #'svr': SVR(),
           'r': Ridge(alpha=1.0),   
           'l': Lasso(alpha=0.1)}
-result = {}
+result = {} 
 
 def reader(file):
   try:
